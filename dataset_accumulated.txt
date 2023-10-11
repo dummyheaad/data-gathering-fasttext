@@ -186,3 +186,54 @@ __label__none Mas, udah deket belum?
 __label__none Pak, terimakasih ya udah antar sampe rumah.
 __label__none Mas, gimana kalo ngerokok dulu di perjalanan?
 __label__none Pak, jangan lupa bawa air minum, ya, keselamatan nomor satu.
+__label__harsh buruan woi gua telat kerja nih
+__label__harsh buruan woi lelet bet bawa motor
+__label__harsh si tolol ga bisa cepet ya?
+__label__harsh lu ga bisa bawa motor cepetan dikit, hah ?
+__label__harsh lu bisa ga bawa motor ga kayak perempuan ?
+__label__harsh lamaaaaa woi
+__label__harsh lamaaaaaaa anjing
+__label__harsh laamaaaa parahhh
+__label__harsh lama banget woi
+__label__harsh lama bet anjeng
+__label__harsh lama bet babi
+__label__harsh lama amat tolol
+__label__harsh anjing lama kali
+__label__harsh bangsat lama banget
+__label__harsh gila lama amat
+__label__harsh lama nya ga ngotak woi
+__label__harsh lama nya ga ada otak
+__label__harsh lama bet, gua kasih bintang satu ni ye
+__label__harsh lama amat, mau gua kasih bintang satu ?
+__label__harsh lu dimana sih sialan ?
+__label__harsh lu udah dimana sih, babi ?
+__label__harsh lu jalannya lambat banget njing
+__label__harsh lu belum jalan ya ?
+__label__harsh lu ga jalan2 ya ?
+__label__harsh lu ga niat narik hah ?
+__label__harsh si tolol ga gerak2
+__label__harsh si bangsat ga gerak2
+__label__harsh udah dari tadi gw tungguin bangsat
+__label__harsh dari mana aja lu
+__label__harsh gw udah muak. Gua cancel aja ye
+__label__harsh saya cancel aja pak. Kelamaan soalnya
+__label__harsh lu udah dimana WOI
+__label__harsh dahlah cancel. Udah kesel gua anjing
+__label__harsh gua tandain plat motor lu ye
+__label__harsh awas aja lu kalau ketemu ntar di jalan
+__label__harsh bajingan ga nyampe2
+__label__harsh batalin aja dah babi
+__label__harsh gw batalin yak kambing
+__label__harsh udah stengah jam nih. Lu dimana woi
+__label__harsh udah 45 menit nih. Lu ada dimana woi
+__label__harsh elu dimana sih tolol
+__label__harsh lu muter2 kemana sih kocak
+__label__harsh dahlah gw kasih bintang 1 aja
+__label__harsh dahlah capek nunggu nya
+__label__harsh dahlah gw cancel aja mampus awkkwakwa
+__label__harsh gw cancel yak wkwkwkw
+__label__harsh gw batalin aja dahh order nya
+__label__harsh batal aja ya pak udah capek saya nunggu nya
+__label__harsh ini gua berdiri dekat pertigaan tolol
+__label__harsh ini gua udah dari tadi diri di sini njing
+
