@@ -1,0 +1,130 @@
+__label__fraud minta tolong bantuan dana kak
+__label__fraud minta dana seikhlasnya kak
+__label__fraud anak saya lagi sakit, tolongin saya kak
+__label__fraud saya hanya ada rekening BCA
+__label__fraud transfer via rekening BRI aja kak
+__label__fraud kak, tolong beri saya uang
+__label__fraud saya lagi butuh duit kak
+__label__fraud saya perlu uang buat anak kak
+__label__fraud minta dana seiklasnya kk
+__label__fraud kk saya perlu bantuan uang
+__label__fraud saya butuh bantuan duit
+__label__fraud boleh transfer secukupnya kak
+__label__fraud tf ke rekening saya kak
+__label__fraud bisa tf ke rekening ini kak
+__label__fraud tf seikhlasnya saja kak
+__label__fraud boleh pinjam duit dulu ga, kk
+__label__fraud kk maaf saya mau pinjem uang
+__label__fraud kk boleh pinjam 50rb ?
+__label__fraud sy pinjem 25rb boleh g kk?
+__label__fraud pinjem uang nya dulu kk, nanti sy ganti
+__label__none ditunggu ya ka
+__label__none di tunggu ya kk
+__label__none saya sudah di lokasi
+__label__none ka.... saya sudah di lokasi jmput ya
+__label__none ka....sy udah di lokasi jemput ya
+__label__none pagi k
+__label__none Selamat Pagi kak
+__label__none slmt pagi kk
+__label__none Okay, kak
+__label__none oke, kak
+__label__none Oke, kak
+__label__none ok, ka
+__label__none oke, kak
+__label__none oke ka
+__label__none Ok, kk
+__label__none siap, kak
+__label__none baik, kk
+__label__none udah nyampe mana kak?
+__label__none udah nyampe blom ?
+__label__none dh nyampe belom kak ?
+__label__none sudah sampai di mana kak ?
+__label__none Ditunggu om
+__label__sexual Boleh engga saya pegang celana bang?
+__label__sexual Buka celana bang
+__label__sexual Ngewe bang
+__label__sexual Mas, masuk kost aja, lagi ganti baju saya
+__label__sexual Makasih mas, punyamu enak
+__label__harsh Lu pikir lu aman
+__label__harsh Alamat lu juga bisa gw dapat
+__label__harsh Gw ga peduli atas bawah! Lu jual gua beli
+__label__harsh Monyeet
+__label__sexual Top or Bot?
+__label__sexual Mas nya gay ga?
+__label__sexual Mas saya cuma pengen sp aja boleh gak. Nanti saya tambahi 50rb
+__label__sexual Saya suka yang manis kaya kamu
+__label__sexual Gw nonton bokep belum kelar
+__label__harsh We anjeng udah belum?
+__label__none Batalin ma kamu mas
+__label__sexual Mas, nanti pas nganter mau saya bj ga?
+__label__sexual Saya engas ini
+__label__harsh Baru loe aja tukang ojek yang nganter ribet
+__label__harsh Gue order bukan baru sekali GOBLOK.
+__label__sexual Saya kasih tambahan 50 tapi saya boleh oral punya mas
+__label__harsh Udah sekarang jangan banyak bacot lu balikin hati bini gua
+__label__harsh Kalo ga bakalan gua cari lu
+__label__sexual Panggil apa aja bebas, panggil sayang juga boleh
+__label__fraud Saya potoin ktp saya ya
+__label__sexual Mas, tipnya mau susu hangat atau susu saya
+__label__fraud Ini kodenya
+__label__sexual Mau mampir ke kamar juga ga mas?
+__label__sexual Janda ya bu
+__label__fraud Saya pinjam uang dulu 300ribu bisa ngga?
+__label__fraud Saya pinjam uang kakak dulu bisa engga?
+__label__fraud Mas, saya ada masalah dengan pembayaran. Bisa bantu saya transfer uang ke rekening ini?
+__label__fraud Apakah boleh minjam 150, soalnya disuruh mama. Nanti uangnya diganti di rumah
+__label__fraud bisa tolong belanjakan makanan mas? nanti uangnya saya ganti
+__label__fraud bisa antar belanjaan ke alamat ini? uangnya bisa di transfer
+__label__fraud pak bisa belikan pesanan saya?
+__label__none harganya 100000 pak ga cukup juga?
+__label__fraud tolong topup pulsa ya pak
+__label__none saya sangat butuh barang-barang ini pak ada di toko terdekat tidak?
+__label__none bisa membantu saya dengan pesanan ini?
+__label__none Saya ingin Anda mengirimkan pesanan ini ke rumah saya
+__label__none Tolong antar pizza ke alamat yang tertera ya
+__label__fraud Saya ingin melakukan top-up e-wallet sebesar 50000
+__label__none Tolong kirimkan pesanan saya dalam waktu 5 menit
+__label__fraud Bisa bantu saya isi topup dana sebesar 100000?
+__label__fraud ketik **21*082176xxx supaya tau alamat keberadaan saya
+__label__fraud saya mau bayar listrik, bisa tolong bantu talangi dulu?
+__label__fraud Aku fotoin KTP-ku ya?
+__label__fraud Boleh gue fotoin KTP-ku?
+__label__fraud Mau gue fotoin KTP-ku?
+__label__fraud Gue fotoin KTP-ku dulu ya.
+__label__fraud Nih, gue fotoin KTP-ku.
+__label__fraud Tunggu, gue fotoin KTP-ku dulu.
+__label__sexual Mampir dulu ke kamarku yuk.
+__label__sexual Boleh ke kamarku sebentar?
+__label__sexual Aku mau ngobrol sama kamu, mampir ke kamarku yuk.
+__label__sexual Lepas celananya dong.
+__label__sexual Buka celanamu.
+__label__sexual Turunin celananya.
+__label__sexual Masuk aja, Mas. Lagi ganti baju nih.
+__label__sexual Aku lagi ganti baju, Mas. Masuk aja dulu.
+__label__sexual Aku lagi ganti baju, Mas. Mau masuk?
+__label__sexual Makasih ya, mas, enak banget.
+__label__sexual Makasih, mas, enak banget.
+__label__sexual Aku nambah lima puluh, tapi aku boleh cium punya kamu ya?
+__label__sexual Aku nambah lima puluh, tapi aku boleh oral sama kamu ya?
+__label__sexual Aku nambah gocap, tapi boleh oral dong?
+__label__sexual Mas, mau tipnya susu saya, boleh?
+__label__sexual Mas, tipnya susu saya, boleh nggak?
+__label__sexual Mas, tipnya susu saya, boleh ya?
+__label__fraud Minjem 150, ya? Nanti diganti di rumah.
+__label__fraud Boleh pinjam uang 150, gak? Mama suruh beli ini.
+__label__fraud Minjem uang 150, ya? Nanti diganti.
+__label__fraud Mas, tolong beliin makanan ya? Nanti aku ganti.
+__label__fraud Bisa minta tolong beliin makanan? Nanti aku bayar.
+__label__fraud Mas, aku lagi gak bisa keluar, bisa tolong beliin makanan gak? Nanti aku ganti.
+__label__fraud Mas, aku lagi lapar, bisa tolong beliin makanan? Nanti aku bayar.
+__label__fraud Mas, bisa tolong beliin makanan buat kita? Nanti aku ganti.
+__label__fraud Pak, isiin pulsa saya dong.
+__label__fraud Pak, bisa tolong isiin pulsa saya nggak?
+__label__fraud Pak, pulsa saya habis. Bisa tolong isiin nggak?
+__label__fraud Pak, pulsa saya udah habis. Bisa tolong isiin 20 ribu?
+__label__fraud Pak, pulsa saya udah mau abis. Bisa tolong isiin 10 ribu?
+__label__fraud Listrik gue udah telat bayar, bisa tolong bantu bayarin dulu?
+__label__fraud Gue lagi kesusahan bayar listrik, bisa tolong bantuin?
+__label__fraud Gue mau bayar listrik, tapi duit gue lagi kurang, bisa tolong bantuin?
+__label__fraud Gue mau bayar listrik, tapi bisa tolong bantuin dulu, nanti gue bayar balik?
+__label__fraud Gue lagi butuh bantuan buat bayar listrik, bisa tolong bantuin?
