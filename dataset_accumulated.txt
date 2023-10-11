@@ -128,3 +128,61 @@ __label__fraud Gue lagi kesusahan bayar listrik, bisa tolong bantuin?
 __label__fraud Gue mau bayar listrik, tapi duit gue lagi kurang, bisa tolong bantuin?
 __label__fraud Gue mau bayar listrik, tapi bisa tolong bantuin dulu, nanti gue bayar balik?
 __label__fraud Gue lagi butuh bantuan buat bayar listrik, bisa tolong bantuin?
+__label__none Mas, bisa antar ke alamat ini, ya?
+__label__none Mas, berapa estimasi harga ke tujuan?
+__label__none Pak, cepetan ya, ada janji penting.
+__label__none Mas, udah deket belum?
+__label__none Pak, jangan lupa helm ya, safety first!
+__label__none Mas, bisa bawa air minum? Lama perjalanan nih.
+__label__none Pak, tolong cepetan, aku udah telat.
+__label__none Pak, terimakasih udah antar, sukses terus!
+__label__none Mas, bisa jemput teman saya juga?
+__label__none Mas, cepetan, ada kereta jam 8 pagi.
+__label__none Pak, jangan lewat jalan tol, cari alternatif.
+__label__none Pak, mau pesan makanan juga, bisa gak?
+__label__none Mas, ini kantorku, parkir di depan ya.
+__label__none Mas, tolong bawa jaket, cuaca tiba-tiba dingin.
+__label__none Pak, tadi nyasar, maafin ya, bisa diulang?
+__label__none Mas, ini alamat teman saya, jemput dia dulu.
+__label__none Pak, nanti aku kasih tip kalau udah sampai.
+__label__none Mas, gimana kalo makanan ini diambil dulu?
+__label__none Pak, bawa satu botol air minum ya, laper.
+__label__none Mas, berhenti sebentar, aku mau beli kopi.
+__label__none Pak, nanti bayarnya aku lewat aplikasi.
+__label__none Mas, ada wifi di mobilnya?
+__label__none Pak, tolong jangan bawa bau rokok di mobil.
+__label__none Mas, nanti aku kasih testimoni bagus.
+__label__none Pak, bisa lewat jalan sepi biar cepat.
+__label__none Mas, bisa antar ke destinasi ini, ya?
+__label__none Pak, nanti aku minta bon atau struk.
+__label__none Mas, tolong jangan nyetir terlalu kencang.
+__label__none Mas, nanti aku kasih tambahan buat cepat.
+__label__none Pak, ada promo gak buat perjalanan ini?
+__label__none Mas, jangan lupa pakai masker, ya.
+__label__none Mas, bawa charger HP, aku lupa.
+__label__none Mas, ini ada barang pecah belah, hati-hati.
+__label__none Mas, berhenti sebentar, aku mau beli sesuatu.
+__label__none Pak, jangan lewat jalan macet, cari alternatif.
+__label__none Mas, nanti bayarnya aku lewat aplikasi.
+__label__none Pak, ada uang kecil gak buat kembalian?
+__label__none Pak, nanti aku kasih tip lewat aplikasi.
+__label__none Mas, gimana kalo radio dimatikan?
+__label__none Pak, tadi lupa bawa jaket, bisa stop sebentar?
+__label__none Pak, ada wifi di mobilnya?
+__label__none Pak, nanti aku minta kode penumpang, ya.
+__label__none Mas, aku mau numpang bawa barang ini, bisa?
+__label__none Pak, tolong jangan ceramah panjang ya.
+__label__none Mas, ini lokasinya rumah temen aku, bawa dulu ya.
+__label__none Pak, bisa ke minimarket sebentar, aku beli sesuatu.
+__label__none Mas, ini pesan makanan, bawa hati-hati ya.
+__label__none Pak, nanti bayarnya aku lewat aplikasi, ya.
+__label__none Mas, sebentar ya, aku nyari uang di dalam.
+__label__none Mas, nanti aku kasih tip lewat aplikasi.
+__label__none Pak, jangan lupa helm ya, keselamatan nomor satu.
+__label__none Mas, ini alamat teman saya, jemput dia dulu.
+__label__none Pak, jangan lewat jalan tol, biar lebih murah.
+__label__none Mas, tolong bawa jaket, cuacanya dingin.
+__label__none Mas, udah deket belum?
+__label__none Pak, terimakasih ya udah antar sampe rumah.
+__label__none Mas, gimana kalo ngerokok dulu di perjalanan?
+__label__none Pak, jangan lupa bawa air minum, ya, keselamatan nomor satu.
