@@ -175,6 +175,56 @@ __label__fraud buka pinjaman ga? nanti saya cicil
 __label__fraud mau saya pinjamin ga? bisa dicicil kok
 __label__fraud Butuh berapa juta? gaada bunganya
 __label__fraud butuh berapa? nanti dicicil aja 
+__label__fraud boleh minta kode otp nya ga mas ?
+__label__fraud kode otp nya kasih ke saya mas
+__label__fraud kode otp nya kirim ke sini aja
+__label__fraud otp nya mana mas ?
+__label__fraud top up in saya dulu mas, nanti diganti
+__label__fraud boleh topup-in gw dulu ga ? ntar gw ganti
+__label__fraud minta nomor shopeepay nya dong
+__label__fraud butuh pinjaman gk ? bunga nya dikit kok
+__label__fraud boleh pinjam duid dulu gk mas ? nanti saya ganti lebih deh
+__label__fraud kak saya butuh dua puluh ribu nih buat isi pulsa. Boleh isiin dulu ga ?
+__label__fraud kirim aja nomor rekening nya ke sini
+__label__fraud mas, saya perlu duid darurat banget
+__label__fraud mas, boleh ngutang dulu gak ? saya lagi ga ada duid
+__label__fraud kk, saya ngutang dulu ya. Nanti pas naik lagi saya bayar
+__label__fraud gw ga bayar dulu ye. Janji deh besok gw lunasin
+__label__fraud foto KTP nya taroh di chat aja nih ?
+__label__fraud foto KTP nya dikirim di chat boleh ga ?
+__label__fraud boleh minta tf uang dlu ga kk ? paket internet lagi sekarat. Biar orderan nya ga kecancel jg
+__label__fraud tf lima puluh ribu ke rekening BRI saya kk
+__label__fraud kk yang kemaren uang nya kelebihan dan belum dibalikin
+__label__fraud kemaren pas naek saya ngasih uang nya berlebih. Bisa tolong dibalikin ?
+__label__fraud boleh tf sepuluh ribu ga kk ? saya lagi dapat promo yang ada bonusnya. Nanti bonusnya saya transfer lagi ke kk
+__label__fraud oh iya, sekalian kalau kk mau saya lagi dapat amanah buat sumbangan anak yatim. Bisa bayar seikhlasnya aja kk
+__label__fraud kk mau ikut nyumbang ke anak yatim ? kalau mau saya kasih nomor dana nya
+__label__fraud boleh minta password akun nya ga ?
+__label__fraud id akun nya apa benar seperti ini ya ?
+__label__fraud boleh minta email akun nya ga ? buat konfirmasi aja
+__label__fraud biar saya bantu kak. Kasih aja username ama password nya ke saya
+__label__fraud boleh bantu saya lima belas ribu kak ? saya fotoin qr nya nih
+__label__fraud ini qr nya kak kalau mau ikut nyumbang
+__label__fraud saya mau bayar tunai tapi ga ada duid cukup. Boleh nyicil dulu ga ?
+__label__fraud qr code nya ini ya kak
+__label__fraud ada masuk sms otp ga pak ? boleh minta kode nya ?
+__label__fraud kalau sms otp nya udah masuk langsung kirim ke sini aja pak
+__label__fraud waduh saya tf nya kelebihan. Boleh balikin kembaliannya ga pak ? kirim lewat link ini aja
+__label__fraud pak, saya ada link promo buat driver nih. Bisa klik link ini yak
+__label__fraud promo driver khusus. Klik link ini untuk melihat detail nya.
+__label__fraud bapak mau promo khusus driver ga pak ? ada bonus di tiap satu pelanggan. Kalau mau klik link ini aja
+__label__fraud karena saya ngasih promo. Boleh minta jatah saya ga pak hehe
+__label__fraud sini saya bantu aktifin. Boleh minta informasi akun berupa username dan password akun bapak ?
+__label__fraud username dan password nya bisa dikirimkan melalui chat ?
+__label__fraud username dan password nya salah. Bisa dikirimkan lagi ?
+__label__fraud gw ada voucher nih. Mau ambil ga ? gratis kok. Cuma perlu buka link ini aja
+__label__fraud voucher promo khusus driver. Dapat bonus uang di tiap dua customer. Syaratnya cukup isi data di link ini
+__label__fraud aduh, app saya lagi error. Boleh minta tolong pesenin makanan ga pak ?
+__label__fraud saya mau pesen makanan pak. Saya langsung ngontak karena app saya lagi error. Kirim ke alamat saya aja ya
+__label__fraud mas boleh minta tolong beliin saya beberapa barang ? ntar saya bayar
+__label__fraud boleh minta tolong pesenin makanan ga ? ntar dibayar lebih deh
+__label__fraud tolong beliin saya nasi padang. Nanti saya ganti uang nya
+__label__fraud tolong beliin saya nasi goreng. Nanti di tf pake dana
 __label__fraud bunganya kecil, bisa kirim nomornya ya nanti di tf
 __label__harsh ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing
 __label__harsh aku habis beli monyet, mukanya mirip mantan kamu
