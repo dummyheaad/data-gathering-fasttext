@@ -151,6 +151,31 @@ __label__fraud mas mau ikut sumbangan ga?
 __label__fraud mas bisa transfer ya untuk sumbangannya
 __label__fraud bisa topup e-wallet ya untuk sumbangannya
 __label__fraud tolong bantu menyumbang dengan transfer uang
+__label__fraud bantu transfer untuk sumbangannya mas
+__label__fraud Bisa bantu isi e-wallet untuk sumbangannya mas?
+__label__fraud Mas mau bantu sumbang uang ga?
+__label__fraud mau bantu sumbang topup e-wallet ga mas?
+__label__fraud Transfer sekarang ke rekening ini, ya?
+__label__fraud mas mau hadiah ga? klik link dulu ya nanti
+__label__fraud bonusnya saya transfer ya
+__label__fraud bisa cantumin no hp? nanti bonusnya saya transfer
+__label__fraud mau tip ga mas? kirim rekeningnya ya
+__label__fraud sudah ya, bisa kirim email ke xxxx@gmail.com
+__label__fraud bukti tfnya tolong kirim via email ya
+__label__fraud tolong cantumin email bisa kak? buat kirim bukti
+__label__fraud saya pinjamin uang mau ga mas?
+__label__fraud butuh uang berapa? nanti saya kirimkan
+__label__fraud mau ikut pinjol gak?
+__label__fraud butuh berapa juta? nanti saya transfer
+__label__fraud saya bisa pinjamin 10 juta
+__label__fraud mau pinjam berapa? nanti kirim rekening saja
+__label__fraud butuh uang cepat? 
+__label__fraud butuh berapa? gue bisa pinjemin dulu
+__label__fraud buka pinjaman ga? nanti saya cicil
+__label__fraud mau saya pinjamin ga? bisa dicicil kok
+__label__fraud Butuh berapa juta? gaada bunganya
+__label__fraud butuh berapa? nanti dicicil aja 
+__label__fraud bunganya kecil, bisa kirim nomornya ya nanti di tf
 __label__harsh ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing
 __label__harsh aku habis beli monyet, mukanya mirip mantan kamu
 __label__harsh aku kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
@@ -753,3 +778,28 @@ __label__sexual tidur bareng yuk, neng nya cantik
 __label__sexual semok deh km 
 __label__sexual kamu semok deh
 __label__sexual semok bgt
+__label__sexual simpan no saya mbak nanti kita vcs
+__label__sexual mau mesum sama saya ga?
+__label__sexual hai cantik, boleh minta nomornya?
+__label__sexual seksi banget mbak, mau kemana?
+__label__sexual mau ditemenin ga?
+__label__sexual nanti pulangnya vcs ya mba
+__label__sexual wah mbak naik saya jadi tegang
+__label__sexual cantik banget mba bikin tegang
+__label__sexual kalo pulang mau dipuasin chat saya lagi ya
+__label__sexual tante bisa puasin saya ga
+__label__sexual mampir hotel yuk
+__label__sexual saya bisa puasin mbak
+__label__sexual neng senderan kerasa dadanya
+__label__sexual dadanya besar banget mbak
+__label__sexual kak mau dicoliin sambil nyetir?
+__label__sexual aku gada cash kak, aku bayarnya sama coliin aja ya
+__label__sexual suka disepongi ga?
+__label__sexual bisa nyepong gratis sama saya mas
+__label__sexual saya puasin mas, nanti saya kasih 100
+__label__sexual temenin ke hotel ya mas sambil minum
+__label__sexual temenin ke hotel ya sambil saya isepin
+__label__sexual saya grepe sambil nyetir ya
+__label__sexual open bo ga mas?
+__label__sexual sange ga nyetirnya?
+__label__sexual kok ga peka sih gue godain
