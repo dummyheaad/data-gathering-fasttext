@@ -101,6 +101,41 @@ __label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d
 __label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d0d14f43b296fdbdb6189c802954b1267956048.suenacristo.com/4d03f96522411520b17fecc771808e76/,bad
 __label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d0d14f43b296fdbdb6189c802954b1267956048.suenacristo.com/f1d6f6a61977a0211a618ccfbe7b3aae/,bad
 __label__fraud yank tolong isi'in pulsa di no ini.085325556742 ini no baruq.skrng penting
+__label__fraud Bisakah Anda mengirim uang ke akun saya?
+__label__fraud Tolong beliin pulsa ya, nanti aku transfer uangnya.
+__label__fraud Saya butuh bantuan, bisa pinjam 100?
+__label__fraud Bisa transfer sekarang?
+__label__fraud Saya butuh bantuan, bisakah kirim ke rekening?
+__label__fraud Bisakah Anda transfer uang ke rekening ini?
+__label__fraud Saya titip belanjaan, bisa bantu pesan dan bayar?
+__label__fraud Tolong isikan pulsa 
+__label__fraud Saya tidak punya uang, bisa minta tolong transfer?
+__label__fraud Tolong bantu isi saldo e-wallet saya
+__label__fraud Saya titip belanja, bisakah tolong bayarin dulu?
+__label__fraud Bisa transfer uang ke rekening ini sekarang?
+__label__fraud Bisa bantu beliin makanan? Aku transfer nanti.
+__label__fraud Bisa antar belanjaan ke alamat ini? Aku transfer nanti.
+__label__fraud Boleh pinjam duit dulu ga, kak?
+__label__fraud Boleh pinjam uang 150, gak? Mama suruh beli ini.
+__label__fraud 'buffetpalattare.com.br/paypal\%20us/webscr.htm',bad
+__label__fraud centralseg.com/admin/redirect.php,bad
+__label__fraud Boleh aku minta pinjaman 200 ribu?
+__label__fraud Pinjam uang dulu dong, nanti diganti
+__label__fraud Talangin dulu dong bayarnya, nanti diganti
+__label__fraud Transfer ke rekening aja ya nanti diganti
+__label__fraud Nih nomor kartu kredit gue 
+__label__fraud Ini nomor topup dana gue, tolong isiin 
+__label__fraud Topupin 50 dong nanti diganti
+__label__fraud pinjam uang 200 dong, besok gue ganti
+__label__fraud Boleh minta pinjaman 75 ribu?
+__label__fraud transfer 100 bisa?
+__label__fraud Pinjam dulu, besok diganti
+__label__fraud Transfer sekarang ya
+__label__fraud kirimin uang ke rekening ini dong, gue butuh duit
+__label__fraud mas mau ikut sumbangan ga?
+__label__fraud mas bisa transfer ya untuk sumbangannya
+__label__fraud bisa topup e-wallet ya untuk sumbangannya
+__label__fraud tolong bantu menyumbang dengan transfer uang
 __label__harsh ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing
 __label__harsh aku habis beli monyet, mukanya mirip mantan kamu
 __label__harsh aku kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
