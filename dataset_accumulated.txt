@@ -56,6 +56,21 @@ __label__fraud Pak, isiin pulsa saya dong.
 __label__fraud Pak, pulsa saya habis. Bisa tolong isiin nggak?
 __label__fraud Pak, pulsa saya udah habis. Bisa tolong isiin 20 ribu?
 __label__fraud Pak, pulsa saya udah mau abis. Bisa tolong isiin 10 ribu?
+__label__fraud minta NIK mas
+__label__fraud kak sy butuh data NIK kakak
+__label__fraud dari bos minta NIK pelanggan pak
+__label__fraud pinjem kartu kreditnya kak
+__label__fraud nomor kartu kreditnya brp?
+__label__fraud ada nomor kartu kredit?
+__label__fraud nama ibu kandungnya siapa?
+__label__fraud ibu kandung kakak siapa namanya?
+__label__fraud boleh kirim foto kakaknya?
+__label__fraud boleh kirim pasfoto?
+__label__fraud kirimin pasfotonya dong
+__label__fraud pakai bank apa?
+__label__fraud biasanya di bank mana?
+__label__fraud bank yg dipake apa mas
+__label__fraud nomor kartu kredit ibu apa?
 __label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.4451545112587451231121542221255411444778111543.ecommandotechnology.in/cmd=_login-submit&amp
 __label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8.d0288a7fd2903afb85a5540fd44243d03.cc1.ir/us,bad
 __label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8.d0288a7fd2903afb85a5540fd44243d03.cc1.ir/us/,bad
