@@ -226,6 +226,28 @@ __label__fraud boleh minta tolong pesenin makanan ga ? ntar dibayar lebih deh
 __label__fraud tolong beliin saya nasi padang. Nanti saya ganti uang nya
 __label__fraud tolong beliin saya nasi goreng. Nanti di tf pake dana
 __label__fraud bunganya kecil, bisa kirim nomornya ya nanti di tf
+__label__fraud mintol pesenin makanan dong, nanti saya bayar pake va bri
+__label__fraud mas boleh mintol beliin makanan ? lagi ada promo nih. Promo nya khusus pembayaran shopeepay. Nanti kalau udah sampe saya bayar
+__label__fraud pak kalau bayar nya ga lewat aplikasi bisa ?
+__label__fraud mas kalau saya bayar di luar aplikasi bisa ga ?
+__label__fraud lagi ga ada cash ama saldo ojol. Pembayaran nya di lain waktu aja ya
+__label__fraud mas, saya mau order makanan nih. Total nya dua ratus ribu. Nanti saya bayar
+__label__fraud mas, saya mau order makanan. Total nya ada seratus ribu. Pembayarannya cod aja ya
+__label__fraud order makanan dong mas. Bayar nya cod aja ya. Total nya tiga ratus ribu
+__label__fraud saya lagi ga ada duit. Sebagai jaminan saya fotoin ktp saya aja ya
+__label__fraud boleh mas. Fotoin aja dlu sim nya buat jaminan
+__label__fraud kirimin foto sim nya ke sini mas
+__label__fraud kirim foto sim lewat chat aja gapapa
+__label__fraud biar ada jaminan fotoin ktp ama sim aja mas
+__label__fraud ktp ama sim nya ada ? boleh difotoin gak ?
+__label__fraud foto ktp ama sim nya trus kirim ke sini
+__label__fraud tolong kirimin foto ktp ama sim nya sekarang
+__label__fraud mas tolong ambilin orderan saya dong. Nota nya ga ada karena lagi error
+__label__fraud mas tolong jemput orderan makanan saya. Nota nya ga dibikin karena mesin toko nya lagi rusak
+__label__fraud pak bisa tolong anterin orderan makanan saya ? nota nya ga ada pak
+__label__fraud ga perlu pake nota. Tinggal ambil aja. Udah konfir tadi ama toko nya
+__label__fraud ntar saya bayar pake mobile banking aja. Kirim ke sini no rek nya
+__label__fraud nomor rekening nya kirim ke sini pak
 __label__harsh ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing
 __label__harsh aku habis beli monyet, mukanya mirip mantan kamu
 __label__harsh aku kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
