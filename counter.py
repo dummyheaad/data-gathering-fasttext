@@ -1,4 +1,5 @@
 def main():
+    print(f"Opening dataset_accumulated.txt...")
     with open('dataset_accumulated.txt', 'r') as f:
         text = f.readlines()
     text = [t.strip() for t in text]
@@ -21,6 +22,7 @@ def main():
             counter_harsh += 1
         if label_none in t:
             counter_none += 1
+    print(f"Summary:")
     print(f"total fraud: {counter_fraud}")
     print(f"total sexual: {counter_sexual}")
     print(f"total harsh: {counter_harsh}")
