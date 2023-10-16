@@ -11,15 +11,12 @@ __label__fraud boleh fotoin ktp
 __label__fraud boleh pinjam duit dulu ga
 __label__fraud boleh pinjam uang 150gak mama suruh beli ini
 __label__fraud boleh transfer secukupnya kak
-__label__fraud 'buffetpalattarecombr/paypal\%20us/webscrhtm'
-__label__fraud centralsegcom/admin/redirectphp
-__label__fraud econtelcomec/wpcontent/themes/ian/lloydstsbcouk/loginjsphtm
 __label__fraud fotoin ktpku dulu ya
 __label__fraud lagi butuh bantuan buat bayar listrik bisa tolong bantuin
 __label__fraud lagi kesusahan bayar listrik bisa tolong bantuin
 __label__fraud mau bayar listrik tapi bisa tolong bantuin dulu nanti dibayar balik
 __label__fraud mau bayar listrik tapi duit lagi kurang bisa tolong bantuin
-__label__fraud hallo brobeli koin games ai pulsamu yukmudah banget loh sobcek http://tselme/jajanonline
+__label__fraud hallo brobeli koin games ai pulsamu yuk mudah banget loh sobcek http://tselme/jajanonline
 __label__fraud hallo urang minangado sticker rancak di group line urang kampuang minang guybeli e pulsa telkomsel
 __label__fraud ini kodenya
 __label__fraud ini no rekeningnya bri an asri narti norek 221901001948507
@@ -71,16 +68,20 @@ __label__fraud pakai bank apa
 __label__fraud biasanya di bank mana
 __label__fraud bank yg dipake apa
 __label__fraud nomor kartu kredit ibu apa
-__label__fraud paypalcomcgibinwebscrcmdloginsubmitdispatch4451545112587451231121542221255411444778111543ecommandotechnologyin/cmd=_loginsubmit&amp
-__label__fraud paypalcomcgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d0288a7fd2903afb85a5540fd44243d03cc1ir/us
-__label__fraud paypalcomcgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d0288a7fd2903afb85a5540fd44243d03cc1ir/us/,bad
-__label__fraud paypalcomuscgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430f290db9e9c846588412bandarepudiocombr/rex/
-__label__fraud paypalcomuscgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430f290db9e9c846588412bandarepudiocombr/rex/securecode0/security/loginphp
-__label__fraud paypalcomuscgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430f290db9e9c846588412bandarepudiocombr/rex/securecode3/security/
-__label__fraud paypalcomuscgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430f290db9e9c846588412bandarepudiocombr/rex/securecode7/security/loginphp
-__label__fraud paypelcomussgcgibinwebscrcmdpgenuaoutsidefemhgon4dpsbvr7d1pw7mecazmkgq3zfihr7ie4dkjdfmsfdfvkdanimaliacl/href/secure/center/update/limit/seccure/095e2249e10fb8515d16a25c8e681edd/
+__label__fraud bisa bayar lewat bank saja boleh minta nomor kartunya
+__label__fraud sebagai jaminan boleh kirim foto ktp
+__label__fraud kirim foto ktp untuk jadi jaminan
+__label__fraud ditunjukkan saja resinya
+__label__fraud resinya tunjukin aja
+__label__fraud boleh titip beliin pulsa
+__label__fraud tolong beliin pulsa nanti tunggu aja di lokasi
+__label__fraud tolong beliin token listrik
+__label__fraud beli token listrik nanti saya ganti uangnya
+__label__fraud lagi butuh pulsa tolong bantu beliin di konter
+__label__fraud bisa belikan pulsa biar nanti uangnya diganti
+__label__fraud boleh transfer duit soalnya atm pas limit hari ini
+__label__fraud atm lagi limit boleh transferkan dulu uang
 __label__fraud pinjem uang nya dulu nanti diganti
-__label__fraud pinna123eb2acom/
 __label__fraud butuh bantuan duit
 __label__fraud hanya ada rekening bca
 __label__fraud ingin melakukan topup ewallet sebesar 50000
@@ -90,7 +91,6 @@ __label__fraud perlu uang buat anak
 __label__fraud pinjam uang dulu 300 ribu bisa ngga
 __label__fraud pinjam uang dulu bisa engga
 __label__fraud potoin ktp ya
-__label__fraud slinca/paypalcomcgibinwebscrcmdloginsubmitdispatch5885d80a13c0db1f8e263663d3faee8d195a86f1d217942f7415cf1b2a6616938857942f7415d80a13c0db1f8e263663d3faee8d195a86f1d217942f7415cf1b200/
 __label__fraud sy pinjem 25rb boleh g 
 __label__fraud tf ke rekening
 __label__fraud tf seikhlasnya saja
@@ -110,11 +110,11 @@ __label__fraud tunggu fotoin ktp dulu
 __label__fraud uangnya ditarnsfer di bni ini aja a/n rastina norek0253 7915 37klo sdh d trnsfer sms aja di no ini 085293355598 trmks
 __label__fraud uangnya dikirim aja ke rekening ini bank bni a/n safitri norekening 0282566132
 __label__fraud uangnya dikirim ke rek bank bni a/n : sdr abdul rahman no rek : 0248721 191 sms saja kalau sudah dikirim terima kasih
-__label__fraud wwwhadinhduccom/wpadmin/images/chase/index2phpchaseonlinechasecom/logonaspxlob=rbglogon
-__label__fraud wwwhappyryancom/us/webscrphpcmd=_loginrun&dispatch=5885d80a13c0db1f1ff80d546411d7f8a8350c132bc41e0934cfc023d4e8f9e5c70cee931178ca5cb97699c52d26112ac70cee931178ca5cb97699c52d26112a
-__label__fraud wwwpaypalcomuscgibinwebscrcmdloginsubmitdispatch97c8e6d0d14f43b296fdbdb6189c802954b1267956048suenacristocom/
-__label__fraud wwwpaypalcomuscgibinwebscrcmdloginsubmitdispatch97c8e6d0d14f43b296fdbdb6189c802954b1267956048suenacristocom/4d03f96522411520b17fecc771808e76/
-__label__fraud wwwpaypalcomuscgibinwebscrcmdloginsubmitdispatch97c8e6d0d14f43b296fdbdb6189c802954b1267956048suenacristocom/f1d6f6a61977a0211a618ccfbe7b3aae/
+__label__fraud ini mau transferin duit teman soalnya atm limit hari ini
+__label__fraud kode resinya kasih ke kasir ya
+__label__fraud berikan saja kode resi ke kasir nanti dibantu
+__label__fraud ini saya pesan syarat bayar harus tunjukkan kode resi
+__label__fraud syarat buat bayar nanti tunjukkan resi di kasir
 __label__fraud yank tolong isi'in pulsa di no ini085325556742 ini no baru skrng penting
 __label__fraud bisakah anda mengirim uang
 __label__fraud tolong beliin pulsa ya nanti  transfer uangnya
@@ -132,8 +132,8 @@ __label__fraud bantu beliin makanan  transfer nanti
 __label__fraud bisa antar belanjaan ke alamat ini transfer nanti
 __label__fraud boleh pinjam duit dulu gakak
 __label__fraud boleh pinjam uang 150gak mama suruh beli ini
-__label__fraud 'buffetpalattarecombr/paypal\%20us/webscrhtm'
-__label__fraud centralsegcom/admin/redirectphp,bad
+__label__fraud tunjukkan kasir resinya bilang mau bayar olshop
+__label__fraud bayar ke kasir tunjukkan resinya bilang mau bayar online
 __label__fraud boleh  minta pinjaman 200 ribu
 __label__fraud pinjam uang dulu dongnanti diganti
 __label__fraud talangin dulu dong bayarnyananti diganti
@@ -244,13 +244,13 @@ __label__fraud foto ktp ama sim nya trus kirim ke sini
 __label__fraud tolong kirimin foto ktp ama sim nya sekarang
 __label__fraud tolong ambilin orderan dong nota nya ga ada karena lagi error
 __label__fraud tolong jemput orderan makanan nota nya ga dibikin karena mesin toko nya lagi rusak
-__label__fraud  bisa tolong anterin orderan makanan  nota nya ga ada 
+__label__fraud bisa tolong anterin orderan makanan nota nya ga ada 
 __label__fraud ga perlu e nota tinggal ambil aja udah konfir tadi ama toko nya
 __label__fraud ntar bayar e mobile banking aja kirim ke sini no rek nya
 __label__fraud nomor rekening nya kirim ke sini 
-__label__harsh ada cewek cantik putih mulus sexyng dulunya laki haha kaga lucu anjing
-__label__harsh  habis beli monyetmukanya mirip mantan kamu
-__label__harsh  kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
+__label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
+__label__harsh habis beli monyetmukanya mirip mantan kamu
+__label__harsh kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
 __label__harsh alamat lu juga bisa dapat
 __label__harsh anak asu
 __label__harsh anjing banget ya pagi2 care sama temen malah di sangka jelek makanya kalo ga kuat minum gausah minum udh mabok mah berabe njing
