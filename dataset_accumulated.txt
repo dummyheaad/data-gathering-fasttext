@@ -1,756 +1,756 @@
-__label__fraud Aku fotoin KTP-ku ya?
-__label__fraud anak saya lagi sakit, tolongin saya kak
-__label__fraud Apakah boleh minjam 150, soalnya disuruh mama. Nanti uangnya diganti di rumah
+__label__fraud fotoin ktpku ya
+__label__fraud anak lagi sakit tolongin kak
+__label__fraud apakah boleh minjam 150 soalnya disuruh mama nanti uangnya diganti di rumah
 __label__fraud belikan dulu besok pulsa 20rbu di no baruku ini 085340781778 penting
-__label__fraud bisa antar belanjaan ke alamat ini? uangnya bisa di transfer
-__label__fraud Bisa bantu saya isi topup dana sebesar 100000?
-__label__fraud Bisa minta tolong beliin makanan? Nanti aku bayar.
+__label__fraud bisa antar belanjaan ke alamat ini uangnya bisa di transfer
+__label__fraud bisa bantu isi topup dana sebesar 100000
+__label__fraud bisa minta tolong beliin makanan nanti  bayar
 __label__fraud bisa tf ke rekening ini kak
-__label__fraud bisa tolong belanjakan makanan mas? nanti uangnya saya ganti
-__label__fraud Boleh gue fotoin KTP-ku?
-__label__fraud boleh pinjam duit dulu ga, kk
-__label__fraud Boleh pinjam uang 150, gak? Mama suruh beli ini.
+__label__fraud bisa tolong belanjakan makanan nanti uangnya ganti
+__label__fraud boleh fotoin ktp
+__label__fraud boleh pinjam duit dulu ga
+__label__fraud boleh pinjam uang 150gak mama suruh beli ini
 __label__fraud boleh transfer secukupnya kak
-__label__fraud 'buffetpalattare.com.br/paypal\%20us/webscr.htm',bad
-__label__fraud centralseg.com/admin/redirect.php,bad
-__label__fraud econtel.com.ec/wp-content/themes/ian/lloydstsb.co.uk/login.jsp.htm,bad
-__label__fraud Gue fotoin KTP-ku dulu ya.
-__label__fraud Gue lagi butuh bantuan buat bayar listrik, bisa tolong bantuin?
-__label__fraud Gue lagi kesusahan bayar listrik, bisa tolong bantuin?
-__label__fraud Gue mau bayar listrik, tapi bisa tolong bantuin dulu, nanti gue bayar balik?
-__label__fraud Gue mau bayar listrik, tapi duit gue lagi kurang, bisa tolong bantuin?
-__label__fraud hallo bro, beli koin games pakai pulsamu yuk, mudah banget loh sob, cek http://tsel.me/jajanonline
-__label__fraud hallo urang minang, ado sticker rancak di group line urang kampuang minang guy, beli pake pulsa telkomsel
-__label__fraud Ini kodenya
-__label__fraud ini no rekeningnya bri.a/n.a.sri narti no.rek.2219-01-001948-50-7.
-__label__fraud ini nomor baru papa, tolong kirimin pulsa 50.000 ke nomor baru papa 085687329010. papa lagi di kantor polisi, ada masalah. jangan telepon papa.
-__label__fraud ini nomor rekeningnya: 5829-01-012786-534. bri a/n andika septiana.
-__label__fraud ini rekeningnya bank bri.no/rek.018801.006474.53.2 an mayani
-__label__fraud ini rekeningnya bank mandiri. no.rek:150-00-1002402-2.a/n: murtiani
-__label__fraud ini rekeningnya bri. rek: 0881-1010-3433-4506 a/n.rasto murdoyo.
-__label__fraud isi dl pulsa 20 rb di nmr ini 085337784732
-__label__fraud kak, tolong beri saya uang
-__label__fraud ketik **21*082176xxx supaya tau alamat keberadaan saya
-__label__fraud kirim ke bank bca no. rek : 2731.7942.96 a/n : andrianto djunaedi usahakan hari ini trms
-__label__fraud kirim ke mandiri aja, a/n arya. rek: 131-000-7252-937. klo sudah kabarin ya!
-__label__fraud kirimi dulu pulsa di no ini 085285485839 mas agus
-__label__fraud kk boleh pinjam 50rb ?
-__label__fraud kk maaf saya mau pinjem uang
-__label__fraud kk saya perlu bantuan uang
-__label__fraud Listrik gue udah telat bayar, bisa tolong bantu bayarin dulu?
-__label__fraud Mas, aku lagi gak bisa keluar, bisa tolong beliin makanan gak? Nanti aku ganti.
-__label__fraud Mas, aku lagi lapar, bisa tolong beliin makanan? Nanti aku bayar.
-__label__fraud Mas, bisa tolong beliin makanan buat kita? Nanti aku ganti.
-__label__fraud Mas, saya ada masalah dengan pembayaran. Bisa bantu saya transfer uang ke rekening ini?
-__label__fraud Mas, tolong beliin makanan ya? Nanti aku ganti.
-__label__fraud Mau gue fotoin KTP-ku?
-__label__fraud Minjem 150, ya? Nanti diganti di rumah.
-__label__fraud Minjem uang 150, ya? Nanti diganti.
+__label__fraud fotoin ktpku dulu ya
+__label__fraud lagi butuh bantuan buat bayar listrik bisa tolong bantuin
+__label__fraud lagi kesusahan bayar listrik bisa tolong bantuin
+__label__fraud mau bayar listrik tapi bisa tolong bantuin dulu nanti dibayar balik
+__label__fraud mau bayar listrik tapi duit lagi kurang bisa tolong bantuin
+__label__fraud hallo bro beli koin games ai pulsamu yuk mudah banget loh sob cek link
+__label__fraud hallo urang minangado sticker rancak di group line urang kampuang minang guy beli pake pulsa telkomsel
+__label__fraud ini kodenya
+__label__fraud ini no rekeningnya bri an asri narti norek 221901001948507
+__label__fraud ini nomor baru papa tolong kirimin pulsa lima ribu ke nomor baru papa lagi di kantor polisi ada masalah jangan telepon papa
+__label__fraud ini nomor rekeningnya: 582901012786534 bri an andika septiana
+__label__fraud ini rekeningnya bank bri norek 018801006474532 an mayani
+__label__fraud ini rekeningnya bank mandiri norek:1500010024022a/n: murtiani
+__label__fraud ini rekeningnya bri rek: 0881101034334506 an rasto murdoyo
+__label__fraud isi dl pulsa 20 rb di nomor ini 085337784732
+__label__fraud tolong beri uang
+__label__fraud ketik **21*082176xxx supaya tau alamat keberadaan
+__label__fraud kirim ke bank bca no rek : 2731794296 a n : andrianto djunaedi usahakan hari ini trms
+__label__fraud kirim ke mandiri aja a n arya rek: 1310007252937 klo sudah kabarin ya
+__label__fraud kirimi dulu pulsa di no ini 085285485839 agus
+__label__fraud boleh pinjam lima puluh
+__label__fraud maaf mau pinjem uang
+__label__fraud perlu bantuan uang
+__label__fraud listrik udah telat bayar bisa tolong bantu bayarin dulu
+__label__fraud lagi gak bisa keluar bisa tolong beliin makanan gak nanti diganti
+__label__fraud lagi lapar bisa tolong beliin makanan nanti dibayar
+__label__fraud bisa tolong beliin makanan buat kita nanti diganti
+__label__fraud ada masalah dengan pembayaran bisa bantu transfer uang ke rekening ini
+__label__fraud tolong beliin makanan ya nanti  ganti
+__label__fraud mau gue fotoin ktpku
+__label__fraud minjem 150 ya nanti diganti di rumah
+__label__fraud minjem uang 150 ya nanti diganti
 __label__fraud minta dana seikhlasnya kak
-__label__fraud minta dana seiklasnya kk
+__label__fraud minta dana seiklasnya 
 __label__fraud minta tolong bantuan dana kak
-__label__fraud Nih, gue fotoin KTP-ku.
-__label__fraud pak bisa belikan pesanan saya?
-__label__fraud Pak, bisa tolong isiin pulsa saya nggak?
-__label__fraud Pak, isiin pulsa saya dong.
-__label__fraud Pak, pulsa saya habis. Bisa tolong isiin nggak?
-__label__fraud Pak, pulsa saya udah habis. Bisa tolong isiin 20 ribu?
-__label__fraud Pak, pulsa saya udah mau abis. Bisa tolong isiin 10 ribu?
-__label__fraud minta NIK mas
-__label__fraud kak sy butuh data NIK kakak
-__label__fraud dari bos minta NIK pelanggan pak
+__label__fraud nih gue fotoin ktp ku
+__label__fraud bisa belikan pesanan
+__label__fraud bisa tolong isiin pulsa nggak
+__label__fraud isiin pulsa dong
+__label__fraud pulsa habis bisa tolong isiin nggak
+__label__fraud pulsa udah habis bisa tolong isiin 20 ribu
+__label__fraud pulsa udah mau abis bisa tolong isiin 10 ribu
+__label__fraud minta nik
+__label__fraud sy butuh data nik kakak
+__label__fraud dari bos minta nik pelanggan 
 __label__fraud pinjem kartu kreditnya kak
-__label__fraud nomor kartu kreditnya brp?
-__label__fraud ada nomor kartu kredit?
-__label__fraud nama ibu kandungnya siapa?
-__label__fraud ibu kandung kakak siapa namanya?
-__label__fraud boleh kirim foto kakaknya?
-__label__fraud boleh kirim pasfoto?
+__label__fraud nomor kartu kreditnya brp
+__label__fraud ada nomor kartu kredit
+__label__fraud nama ibu kandungnya siapa
+__label__fraud ibu kandung siapa namanya
+__label__fraud boleh kirim foto kakaknya
+__label__fraud boleh kirim pasfoto
 __label__fraud kirimin pasfotonya dong
-__label__fraud pakai bank apa?
-__label__fraud biasanya di bank mana?
-__label__fraud bank yg dipake apa mas
-__label__fraud nomor kartu kredit ibu apa?
-__label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.4451545112587451231121542221255411444778111543.ecommandotechnology.in/cmd=_login-submit&amp
-__label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8.d0288a7fd2903afb85a5540fd44243d03.cc1.ir/us,bad
-__label__fraud paypal.com.cgi.bin.webscr.cmd.login.submit.dispatch.5885d80a13c0db1f8e263663d3faee8.d0288a7fd2903afb85a5540fd44243d03.cc1.ir/us/,bad
-__label__fraud paypal.com.us.cgi.bin.webscr.cmd.login-submit.dispatch.5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430.f290db9.e9c846.588412.bandarepudio.com.br/rex/,bad
-__label__fraud paypal.com.us.cgi.bin.webscr.cmd.login-submit.dispatch.5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430.f290db9.e9c846.588412.bandarepudio.com.br/rex/secure-code0/security/login.php,bad
-__label__fraud paypal.com.us.cgi.bin.webscr.cmd.login-submit.dispatch.5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430.f290db9.e9c846.588412.bandarepudio.com.br/rex/secure-code3/security/,bad
-__label__fraud paypal.com.us.cgi.bin.webscr.cmd.login-submit.dispatch.5885d80a13c0db1f8e263663d3faee8d7283e7f0184a5674430.f290db9.e9c846.588412.bandarepudio.com.br/rex/secure-code7/security/login.php,bad
-__label__fraud paypel.com-us.sg.cgi.bin.webscr.cmd-p.gen.ua-outside.fe-mhgon4dpsbvr7d1pw7mecazmkgq3zfihr7ie4dkjdfmsfdfvkd.animalia.cl/href/secure/center/update/limit/seccure/095e2249e10fb8515d16a25c8e681edd/,bad
-__label__fraud pinjem uang nya dulu kk, nanti sy ganti
-__label__fraud pinna123.eb2a.com/,bad
-__label__fraud saya butuh bantuan duit
-__label__fraud saya hanya ada rekening BCA
-__label__fraud Saya ingin melakukan top-up e-wallet sebesar 50000
-__label__fraud saya lagi butuh duit kak
-__label__fraud saya mau bayar listrik, bisa tolong bantu talangi dulu?
-__label__fraud saya perlu uang buat anak kak
-__label__fraud Saya pinjam uang dulu 300ribu bisa ngga?
-__label__fraud Saya pinjam uang kakak dulu bisa engga?
-__label__fraud Saya potoin ktp saya ya
-__label__fraud slin.ca/paypal.com.cgi-bin-webscr-cmd-login-submit-dispatch-5885d80a13c0db1f8e263.663d3faee8d195a.86f1d21.7942f7415cf1b2a6.616938857942f.7415d80.a13c0d.b1f8e263663d3faee.8d195a86f1d21.7942f7415cf1b200/,bad
-__label__fraud sy pinjem 25rb boleh g kk?
-__label__fraud tf ke rekening saya kak
-__label__fraud tf seikhlasnya saja kak
-__label__fraud tolong topup pulsa ya pak
-__label__fraud tolong uangnya di kirim ke rekening ini aja, bri, a/n: hasan mahmud. rek: 3292-0101-9525-532. sms aja klau sudah di kirim, makasih.
-__label__fraud tolong uangnya di transfer aja kesini mandiri a/n rahmad adrian no rek: 1340-0065-58125 sms aja kalo sdh dikirim, trims
-__label__fraud tolong uangnya di transfer saja ke bank an ardiansyah 5500248418, kalau sudah ditransfer sms saja, terima kasih
-__label__fraud tolong uangnya di transfer sekarang aja ke bank bni: 022-741-3681. a/n friska ananda, sms kalau sudah di transfer, trimksi...
-__label__fraud tolong uangnya dikirim aja kesini bank danamon a/n farida hanum no rek. 0035-3918- 4014 sms aja klo udah dikirim, trims
-__label__fraud transfer ke bank xxx saja a/n xxx no rek 7390685xxx, kalau sudah ditransfer sms ke no ini ya!
-__label__fraud transfer ke bni aja, a/n soraya harum rek;0233-293-922 klo sdh kbrin di nmr ini ya!
-__label__fraud transfer ke mandiri aja, a/n resti amanda norek 9000007701999
-__label__fraud transfer saja uangnya ke rek ini.mandiri.no rek: 152-00-1236312-9.a/n:darman. klau sdah di transfer sms saja ke nmor ini trima kasih
-__label__fraud transfer via rekening BRI aja kak
-__label__fraud transfernya ke bri aja a/n angga prastia no rek 1172-01-002218-502
-__label__fraud Tunggu, gue fotoin KTP-ku dulu.
-__label__fraud uangnya di trnsfer di bni ini aja a/n rastina no.rek.0253 7915 37.klo sdh d trnsfer sms aja di no ini 085293355598 trmks.
-__label__fraud uangnya dikirim aja ke rekening ini, bankbni a/n safitri no.rekening 0282566132
-__label__fraud uangnya dikirim saja ke rek. bank bni a/n. : sdr abdul rahman no. rek. : 024-8721- 191 sms saja kalau sudah dikirim. terima kasih
-__label__fraud www.hadinhduc.com/wp-admin/images/chase/index2.php?chaseonline.chase.com/logon.aspx?lob=rbglogon,bad
-__label__fraud www.happyryan.com/us/webscr.php?cmd=_login-run&dispatch=5885d80a13c0db1f1ff80d546411d7f8a8350c132bc41e0934cfc023d4e8f9e5c70cee931178ca5cb97699c52d26112ac70cee931178ca5cb97699c52d26112a,bad
-__label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d0d14f43b296fdbdb6189c802954b1267956048.suenacristo.com/,bad
-__label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d0d14f43b296fdbdb6189c802954b1267956048.suenacristo.com/4d03f96522411520b17fecc771808e76/,bad
-__label__fraud www.paypal.com.uscgi-bin.webscr.cmd.login-submit.dispatch.97c8e6d0d14f43b296fdbdb6189c802954b1267956048.suenacristo.com/f1d6f6a61977a0211a618ccfbe7b3aae/,bad
-__label__fraud yank tolong isi'in pulsa di no ini.085325556742 ini no baruq.skrng penting
-__label__fraud Bisakah Anda mengirim uang ke akun saya?
-__label__fraud Tolong beliin pulsa ya, nanti aku transfer uangnya.
-__label__fraud Saya butuh bantuan, bisa pinjam 100?
-__label__fraud Bisa transfer sekarang?
-__label__fraud Saya butuh bantuan, bisakah kirim ke rekening?
-__label__fraud Bisakah Anda transfer uang ke rekening ini?
-__label__fraud Saya titip belanjaan, bisa bantu pesan dan bayar?
-__label__fraud Tolong isikan pulsa 
-__label__fraud Saya tidak punya uang, bisa minta tolong transfer?
-__label__fraud Tolong bantu isi saldo e-wallet saya
-__label__fraud Saya titip belanja, bisakah tolong bayarin dulu?
-__label__fraud Bisa transfer uang ke rekening ini sekarang?
-__label__fraud Bisa bantu beliin makanan? Aku transfer nanti.
-__label__fraud Bisa antar belanjaan ke alamat ini? Aku transfer nanti.
-__label__fraud Boleh pinjam duit dulu ga, kak?
-__label__fraud Boleh pinjam uang 150, gak? Mama suruh beli ini.
-__label__fraud 'buffetpalattare.com.br/paypal\%20us/webscr.htm',bad
-__label__fraud centralseg.com/admin/redirect.php,bad
-__label__fraud Boleh aku minta pinjaman 200 ribu?
-__label__fraud Pinjam uang dulu dong, nanti diganti
-__label__fraud Talangin dulu dong bayarnya, nanti diganti
-__label__fraud Transfer ke rekening aja ya nanti diganti
-__label__fraud Nih nomor kartu kredit gue 
-__label__fraud Ini nomor topup dana gue, tolong isiin 
-__label__fraud Topupin 50 dong nanti diganti
-__label__fraud pinjam uang 200 dong, besok gue ganti
-__label__fraud Boleh minta pinjaman 75 ribu?
-__label__fraud transfer 100 bisa?
-__label__fraud Pinjam dulu, besok diganti
-__label__fraud Transfer sekarang ya
-__label__fraud kirimin uang ke rekening ini dong, gue butuh duit
-__label__fraud mas mau ikut sumbangan ga?
-__label__fraud mas bisa transfer ya untuk sumbangannya
-__label__fraud bisa topup e-wallet ya untuk sumbangannya
-__label__fraud tolong bantu menyumbang dengan transfer uang
-__label__fraud bantu transfer untuk sumbangannya mas
-__label__fraud Bisa bantu isi e-wallet untuk sumbangannya mas?
-__label__fraud Mas mau bantu sumbang uang ga?
-__label__fraud mau bantu sumbang topup e-wallet ga mas?
-__label__fraud Transfer sekarang ke rekening ini, ya?
-__label__fraud mas mau hadiah ga? klik link dulu ya nanti
-__label__fraud bonusnya saya transfer ya
-__label__fraud bisa cantumin no hp? nanti bonusnya saya transfer
-__label__fraud mau tip ga mas? kirim rekeningnya ya
-__label__fraud sudah ya, bisa kirim email ke xxxx@gmail.com
+__label__fraud pakai bank apa
+__label__fraud biasanya di bank mana
+__label__fraud bank yg dipake apa
+__label__fraud nomor kartu kredit ibu apa
+__label__fraud bisa bayar lewat bank saja boleh minta nomor kartunya
+__label__fraud sebagai jaminan boleh kirim foto ktp
+__label__fraud kirim foto ktp untuk jadi jaminan
+__label__fraud ditunjukkan saja resinya
+__label__fraud resinya tunjukin aja
+__label__fraud boleh titip beliin pulsa
+__label__fraud tolong beliin pulsa nanti tunggu aja di lokasi
+__label__fraud tolong beliin token listrik
+__label__fraud beli token listrik nanti saya ganti uangnya
+__label__fraud lagi butuh pulsa tolong bantu beliin di konter
+__label__fraud bisa belikan pulsa biar nanti uangnya diganti
+__label__fraud boleh transfer duit soalnya atm pas limit hari ini
+__label__fraud atm lagi limit boleh transferkan dulu uang
+__label__fraud pinjem uang nya dulu nanti diganti
+__label__fraud butuh bantuan duit
+__label__fraud hanya ada rekening bca
+__label__fraud ingin melakukan topup ewallet sebesar lima puluh ribu
+__label__fraud lagi butuh duit kak
+__label__fraud mau bayar listrik bisa tolong bantu talangi dulu
+__label__fraud perlu uang buat anak
+__label__fraud pinjam uang dulu 300 ribu bisa ngga
+__label__fraud pinjam uang dulu bisa engga
+__label__fraud potoin ktp ya
+__label__fraud sy pinjem 25rb boleh g 
+__label__fraud tf ke rekening
+__label__fraud tf seikhlasnya saja
+__label__fraud topup pulsa
+__label__fraud uangnya kirim ke rekening ini aja bri a/n: hasan mahmud rek: 329201019525532 sms aja klau sudah di kirim makasih
+__label__fraud uangnya transfer aja kesini mandiri a/n rahmad adrian no rek: 1340006558125 sms aja kalo sdh dikirim trims
+__label__fraud uangnya transfer ke bank an ardiansyah 5500248418kalau sudah ditransfer sms sajaterima kasih
+__label__fraud uangnya transfer sekarang ke bank bni: 0227413681 a/n friska ananda sms kalau sudah di transfer trimksi
+__label__fraud uangnya dikirim kesini bank danamon a/n farida hanum no rek 00353918 4014 sms aja klo udah dikirim trims
+__label__fraud transfer bank xxx saja a/n xxx no rek 7390685xxxkalau sudah ditransfer sms ke no ini ya
+__label__fraud transfer bni aja a/n soraya harum rek;0233293922 klo sdh kbrin di nmr ini ya
+__label__fraud transfer mandiri aja a/n resti amanda norek 9000007701999
+__label__fraud transfer uangnya ke rek ini mandiri no rek: 1520012363129a/n:darman klo sdah di transfer sms saja ke nomor ini
+__label__fraud transfer via rekening bri aja kak
+__label__fraud transfernya ke bri aja a/n angga prastia no rek 117201002218502
+__label__fraud tunggu fotoin ktp dulu
+__label__fraud uangnya ditarnsfer di bni ini aja a/n rastina norek0253 7915 37 klo sdh di trnsfer sms aja di no ini 085293355598 trmks
+__label__fraud uangnya dikirim aja ke rekening ini bank bni a/n safitri norekening 0282566132
+__label__fraud uangnya dikirim ke rek bank bni a/n : sdr abdul rahman no rek : 0248721 191 sms saja kalau sudah dikirim terima kasih
+__label__fraud ini mau transferin duit teman soalnya atm limit hari ini
+__label__fraud kode resinya kasih ke kasir ya
+__label__fraud berikan saja kode resi ke kasir nanti dibantu
+__label__fraud ini saya pesan syarat bayar harus tunjukkan kode resi
+__label__fraud syarat buat bayar nanti tunjukkan resi di kasir
+__label__fraud tolong isiin pulsa di no ini085325556742 ini no baru skrng penting
+__label__fraud bisakah anda mengirim uang
+__label__fraud tolong beliin pulsa ya nanti  transfer uangnya
+__label__fraud butuh bantuan bisa pinjam 100
+__label__fraud bisa transfer sekarang
+__label__fraud butuh bantuan bisakah kirim ke rekening
+__label__fraud bisakah anda transfer uang ke rekening ini
+__label__fraud titip belanjaan bisa bantu pesan dan bayar
+__label__fraud tolong isikan pulsa 
+__label__fraud tidak punya uang bisa minta tolong transfer
+__label__fraud tolong bantu isi saldo ewallet
+__label__fraud titip belanja bisakah tolong bayarin dulu
+__label__fraud transfer uang ke rekening ini sekarang
+__label__fraud bantu beliin makanan  transfer nanti
+__label__fraud bisa antar belanjaan ke alamat ini transfer nanti
+__label__fraud boleh pinjam duit dulu gakak
+__label__fraud boleh pinjam uang 150 gak mama suruh beli ini
+__label__fraud tunjukkan kasir resinya bilang mau bayar olshop
+__label__fraud bayar ke kasir tunjukkan resinya bilang mau bayar online
+__label__fraud boleh minta pinjaman dua ratus ribu
+__label__fraud pinjam uang dulu dongnanti diganti
+__label__fraud talangin dulu dong bayarnya nanti diganti
+__label__fraud transfer ke rekening aja ya nanti diganti
+__label__fraud nih nomor kartu kredit gue 
+__label__fraud ini nomor topup dana guetolong isiin 
+__label__fraud topupin 50 dong nanti diganti
+__label__fraud pinjam uang 200 dong besok gue ganti
+__label__fraud boleh minta pinjaman 75 ribu
+__label__fraud transfer 100 bisa
+__label__fraud pinjam dulu besok diganti
+__label__fraud transfer sekarang ya
+__label__fraud kirimin uang ke rekening ini dong butuh duit
+__label__fraud mau ikut sumbangan ga
+__label__fraud bisa transfer ya untuk sumbangannya
+__label__fraud bisa topup ewallet ya untuk sumbangannya
+__label__fraud tolong bantu menyumdengan transfer uang
+__label__fraud bantu transfer untuk sumbangannya
+__label__fraud bisa bantu isi ewallet untuk sumbangannya
+__label__fraud mau bantu sumbang uang ga
+__label__fraud mau bantu sumbang topup ewallet ga
+__label__fraud transfer sekarang ke rekening iniya
+__label__fraud mau hadiah ga klik link dulu ya nanti
+__label__fraud bonusnya transfer ya
+__label__fraud bisa cantumin no hp nanti bonusnya transfer
+__label__fraud mau tip ga kirim rekeningnya ya
+__label__fraud sudah yabisa kirim email ke alamat email
 __label__fraud bukti tfnya tolong kirim via email ya
-__label__fraud tolong cantumin email bisa kak? buat kirim bukti
-__label__fraud saya pinjamin uang mau ga mas?
-__label__fraud butuh uang berapa? nanti saya kirimkan
-__label__fraud mau ikut pinjol gak?
-__label__fraud butuh berapa juta? nanti saya transfer
-__label__fraud saya bisa pinjamin 10 juta
-__label__fraud mau pinjam berapa? nanti kirim rekening saja
-__label__fraud butuh uang cepat? 
-__label__fraud butuh berapa? gue bisa pinjemin dulu
-__label__fraud buka pinjaman ga? nanti saya cicil
-__label__fraud mau saya pinjamin ga? bisa dicicil kok
-__label__fraud Butuh berapa juta? gaada bunganya
-__label__fraud butuh berapa? nanti dicicil aja 
-__label__fraud boleh minta kode otp nya ga mas ?
-__label__fraud kode otp nya kasih ke saya mas
-__label__fraud kode otp nya kirim ke sini aja
-__label__fraud otp nya mana mas ?
-__label__fraud top up in saya dulu mas, nanti diganti
-__label__fraud boleh topup-in gw dulu ga ? ntar gw ganti
+__label__fraud tolong cantumin email bisa buat kirim bukti
+__label__fraud pinjamin uang mau ga
+__label__fraud butuh uang berapa nanti kirimkan
+__label__fraud mau ikut pinjol gak
+__label__fraud butuh berapa juta nanti transfer
+__label__fraud bisa pinjamin 10 juta
+__label__fraud mau pinjam berapa nanti kirim rekening saja
+__label__fraud butuh uang cepat 
+__label__fraud butuh berapa gue bisa pinjemin dulu
+__label__fraud buka pinjaman ga nanti cicil
+__label__fraud mau pinjamin ga bisa dicicil kok
+__label__fraud butuh berapa juta gaada bunganya
+__label__fraud butuh berapa nanti dicicil aja 
+__label__fraud boleh minta kode otp nya ga 
+__label__fraud kode otp nya kasih
+__label__fraud kode otp nya kirim ke sini
+__label__fraud otp nya mana 
+__label__fraud top up in dulu nanti diganti
+__label__fraud boleh topupin dulu ga  ntar ganti
 __label__fraud minta nomor shopeepay nya dong
-__label__fraud butuh pinjaman gk ? bunga nya dikit kok
-__label__fraud boleh pinjam duid dulu gk mas ? nanti saya ganti lebih deh
-__label__fraud kak saya butuh dua puluh ribu nih buat isi pulsa. Boleh isiin dulu ga ?
+__label__fraud butuh pinjaman gk  bunga nya dikit kok
+__label__fraud boleh pinjam duid dulu gk  nanti ganti lebih deh
+__label__fraud butuh dua puluh ribu nih buat isi pulsa boleh isiin dulu ga 
 __label__fraud kirim aja nomor rekening nya ke sini
-__label__fraud mas, saya perlu duid darurat banget
-__label__fraud mas, boleh ngutang dulu gak ? saya lagi ga ada duid
-__label__fraud kk, saya ngutang dulu ya. Nanti pas naik lagi saya bayar
-__label__fraud gw ga bayar dulu ye. Janji deh besok gw lunasin
-__label__fraud foto KTP nya taroh di chat aja nih ?
-__label__fraud foto KTP nya dikirim di chat boleh ga ?
-__label__fraud boleh minta tf uang dlu ga kk ? paket internet lagi sekarat. Biar orderan nya ga kecancel jg
-__label__fraud tf lima puluh ribu ke rekening BRI saya kk
-__label__fraud kk yang kemaren uang nya kelebihan dan belum dibalikin
-__label__fraud kemaren pas naek saya ngasih uang nya berlebih. Bisa tolong dibalikin ?
-__label__fraud boleh tf sepuluh ribu ga kk ? saya lagi dapat promo yang ada bonusnya. Nanti bonusnya saya transfer lagi ke kk
-__label__fraud oh iya, sekalian kalau kk mau saya lagi dapat amanah buat sumbangan anak yatim. Bisa bayar seikhlasnya aja kk
-__label__fraud kk mau ikut nyumbang ke anak yatim ? kalau mau saya kasih nomor dana nya
-__label__fraud boleh minta password akun nya ga ?
-__label__fraud id akun nya apa benar seperti ini ya ?
-__label__fraud boleh minta email akun nya ga ? buat konfirmasi aja
-__label__fraud biar saya bantu kak. Kasih aja username ama password nya ke saya
-__label__fraud boleh bantu saya lima belas ribu kak ? saya fotoin qr nya nih
-__label__fraud ini qr nya kak kalau mau ikut nyumbang
-__label__fraud saya mau bayar tunai tapi ga ada duid cukup. Boleh nyicil dulu ga ?
+__label__fraud perlu duid darurat banget
+__label__fraud boleh ngutang dulu gak  lagi ga ada duid
+__label__fraud ngutang dulu ya nanti pas naik lagi bayar
+__label__fraud ga bayar dulu ye janji deh besok lunasin
+__label__fraud foto ktp nya taroh di chat aja nih 
+__label__fraud foto ktp nya dikirim di chat boleh ga 
+__label__fraud boleh minta tf uang dlu ga banget internet lagi sekarat biar orderan nya ga kecancel jg
+__label__fraud tf lima puluh ribu ke rekening bri 
+__label__fraud yang kemaren uang nya kelebihan dan belum dibalikin
+__label__fraud kemaren pas naek ngasih uang nya berlebih bisa tolong dibalikin 
+__label__fraud boleh tf sepuluh ribu ga lagi dapat promo yang ada bonusnya nanti bonusnya transfer lagi ke 
+__label__fraud oh iya sekalian kalau  mau lagi dapat amanah buat sumbangan anak yatim bisa bayar seikhlasnya aja 
+__label__fraud mau ikut nyumbang ke anak yatim kalau mau kasih nomor dana nya
+__label__fraud boleh minta password nya ga 
+__label__fraud id nya apa benar seperti ini ya 
+__label__fraud boleh minta email ga buat konfirm aja
+__label__fraud biar bantu kasih aja username ama password nya ke
+__label__fraud boleh bantu lima belas ribu fotoin qr nya nih
+__label__fraud ini qr nya kalau mau ikut nyumbang
+__label__fraud mau bayar tunai tapi ga ada duid cukup boleh nyicil dulu ga 
 __label__fraud qr code nya ini ya kak
-__label__fraud ada masuk sms otp ga pak ? boleh minta kode nya ?
-__label__fraud kalau sms otp nya udah masuk langsung kirim ke sini aja pak
-__label__fraud waduh saya tf nya kelebihan. Boleh balikin kembaliannya ga pak ? kirim lewat link ini aja
-__label__fraud pak, saya ada link promo buat driver nih. Bisa klik link ini yak
-__label__fraud promo driver khusus. Klik link ini untuk melihat detail nya.
-__label__fraud bapak mau promo khusus driver ga pak ? ada bonus di tiap satu pelanggan. Kalau mau klik link ini aja
-__label__fraud karena saya ngasih promo. Boleh minta jatah saya ga pak hehe
-__label__fraud sini saya bantu aktifin. Boleh minta informasi akun berupa username dan password akun bapak ?
-__label__fraud username dan password nya bisa dikirimkan melalui chat ?
-__label__fraud username dan password nya salah. Bisa dikirimkan lagi ?
-__label__fraud gw ada voucher nih. Mau ambil ga ? gratis kok. Cuma perlu buka link ini aja
-__label__fraud voucher promo khusus driver. Dapat bonus uang di tiap dua customer. Syaratnya cukup isi data di link ini
-__label__fraud aduh, app saya lagi error. Boleh minta tolong pesenin makanan ga pak ?
-__label__fraud saya mau pesen makanan pak. Saya langsung ngontak karena app saya lagi error. Kirim ke alamat saya aja ya
-__label__fraud mas boleh minta tolong beliin saya beberapa barang ? ntar saya bayar
-__label__fraud boleh minta tolong pesenin makanan ga ? ntar dibayar lebih deh
-__label__fraud tolong beliin saya nasi padang. Nanti saya ganti uang nya
-__label__fraud tolong beliin saya nasi goreng. Nanti di tf pake dana
-__label__fraud bunganya kecil, bisa kirim nomornya ya nanti di tf
-__label__fraud mintol pesenin makanan dong, nanti saya bayar pake va bri
-__label__fraud mas boleh mintol beliin makanan ? lagi ada promo nih. Promo nya khusus pembayaran shopeepay. Nanti kalau udah sampe saya bayar
-__label__fraud pak kalau bayar nya ga lewat aplikasi bisa ?
-__label__fraud mas kalau saya bayar di luar aplikasi bisa ga ?
-__label__fraud lagi ga ada cash ama saldo ojol. Pembayaran nya di lain waktu aja ya
-__label__fraud mas, saya mau order makanan nih. Total nya dua ratus ribu. Nanti saya bayar
-__label__fraud mas, saya mau order makanan. Total nya ada seratus ribu. Pembayarannya cod aja ya
-__label__fraud order makanan dong mas. Bayar nya cod aja ya. Total nya tiga ratus ribu
-__label__fraud saya lagi ga ada duit. Sebagai jaminan saya fotoin ktp saya aja ya
-__label__fraud boleh mas. Fotoin aja dlu sim nya buat jaminan
-__label__fraud kirimin foto sim nya ke sini mas
+__label__fraud ada masuk sms otp ga boleh minta kode nya 
+__label__fraud kalau sms otp nya udah masuk langsung kirim ke sini aja 
+__label__fraud waduh tf nya kelebihan boleh balikin kembaliannya ga kirim lewat link ini aja
+__label__fraud link promo buat driver nih bisa klik link ini yak
+__label__fraud promo driver khusus klik link ini untuk melihat detail nya
+__label__fraud mau promo khusus driver ga ada bonus di tiap satu pelanggan kalau mau klik link ini aja
+__label__fraud karena ngasih promo boleh minta jatah ga  hehe
+__label__fraud sini bantu aktifin boleh minta informasi berupa username dan password 
+__label__fraud username dan password nya bisa dikirimkan melalui chat 
+__label__fraud username dan password nya salah bisa dikirimkan lagi 
+__label__fraud ada voucher nih mau ambil ga  gratis kok cuma perlu buka link ini aja
+__label__fraud voucher promo khusus driver dapat bonus uang di tiap dua customer syaratnya cukup isi data di link ini
+__label__fraud aduh app lagi error boleh minta tolong pesenin makanan ga  
+__label__fraud mau pesen makanan  langsung ngontak karena app lagi error kirim ke alamat aja ya
+__label__fraud boleh minta tolong beliin beberapa barang  ntar bayar
+__label__fraud boleh minta tolong pesenin makanan ga  ntar dibayar lebih deh
+__label__fraud tolong beliin nasi padang nanti ganti uang nya
+__label__fraud tolong beliin nasi goreng nanti di tf e dana
+__label__fraud bunganya kecil bisa kirim nomornya ya nanti di tf
+__label__fraud mintol pesenin makanan dongnanti bayar e va bri
+__label__fraud boleh mintol beliin makanan  lagi ada promo nih promo nya khusus pembayaran shopeepay nanti kalau udah sampe bayar
+__label__fraud kalau bayar nya ga lewat aplikasi bisa 
+__label__fraud kalau bayar di luar aplikasi bisa ga 
+__label__fraud lagi ga ada cash ama saldo ojol pembayaran nya di lain waktu aja ya
+__label__fraud mau order makanan nih total nya dua ratus ribu nanti bayar
+__label__fraud mau order makanan total nya ada seratus ribu pembayarannya cod aja ya
+__label__fraud order makanan dong bayar nya cod aja ya total nya tiga ratus ribu
+__label__fraud lagi ga ada duit sebagai jaminan fotoin ktp aja ya
+__label__fraud boleh fotoin aja dlu sim nya buat jaminan
+__label__fraud kirimin foto sim nya ke sini
 __label__fraud kirim foto sim lewat chat aja gapapa
-__label__fraud biar ada jaminan fotoin ktp ama sim aja mas
-__label__fraud ktp ama sim nya ada ? boleh difotoin gak ?
+__label__fraud biar ada jaminan fotoin ktp ama sim aja
+__label__fraud ktp ama sim nya ada  boleh difotoin gak 
 __label__fraud foto ktp ama sim nya trus kirim ke sini
 __label__fraud tolong kirimin foto ktp ama sim nya sekarang
-__label__fraud mas tolong ambilin orderan saya dong. Nota nya ga ada karena lagi error
-__label__fraud mas tolong jemput orderan makanan saya. Nota nya ga dibikin karena mesin toko nya lagi rusak
-__label__fraud pak bisa tolong anterin orderan makanan saya ? nota nya ga ada pak
-__label__fraud ga perlu pake nota. Tinggal ambil aja. Udah konfir tadi ama toko nya
-__label__fraud ntar saya bayar pake mobile banking aja. Kirim ke sini no rek nya
-__label__fraud nomor rekening nya kirim ke sini pak
-__label__harsh ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing
-__label__harsh aku habis beli monyet, mukanya mirip mantan kamu
-__label__harsh aku kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
-__label__harsh Alamat lu juga bisa gw dapat
+__label__fraud tolong ambilin orderan dong nota nya ga ada karena lagi error
+__label__fraud tolong jemput orderan makanan nota nya ga dibikin karena mesin toko nya lagi rusak
+__label__fraud bisa tolong anterin orderan makanan nota nya ga ada 
+__label__fraud ga perlu e nota tinggal ambil aja udah konfir tadi ama toko nya
+__label__fraud ntar bayar e mobile banking aja kirim ke sini no rek nya
+__label__fraud nomor rekening nya kirim ke sini
+__label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
+__label__harsh habis beli monyetmukanya mirip mantan kamu
+__label__harsh kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
+__label__harsh alamat lu juga bisa dapat
 __label__harsh anak asu
-__label__harsh anjing banget ya pagi2 gw care sama temen malah di sangka jelek. makanya kalo ga kuat minum gausah minum udh mabok mah berabe njing!!!
+__label__harsh anjing banget ya pagi2 care sama temen malah di sangka jelek makanya kalo ga kuat minum gausah minum udh mabok mah berabe njing
 __label__harsh anjing bangsat tai doang lah
-__label__harsh anjing betul yg bawa mobilnya, buta matanya
+__label__harsh anjing betul yg bawa mobilnyabuta matanya
 __label__harsh anjing gak main twitter kak
 __label__harsh anjing jg lo ler
 __label__harsh anjing kamu biadal bangsat kamu kira ulama seperti dirimu
-__label__harsh anjing kau. yang hina itu mama kau.
-__label__harsh anjing kenapa diem aja abangnya tolol. udah mending kl ada ginian gausah nonton. biar berenti abangnya jg cari nafkah dgn cara lain aja.
+__label__harsh anjing kau yang hina itu mama kau
+__label__harsh anjing kenapa diem aja abangnya tolol udah mending kl ada ginian gausah nonton biar berenti abangnya jg cari nafkah dgn cara lain aja
 __label__harsh anjing lama kali
 __label__harsh anjing lo hahahahah
-__label__harsh anjing masih pagi, emosi gw bacanya bales nder: kontol lu najis anjing amit amit
+__label__harsh anjingih pagiemosi bacanya bales nder: kontol lu najis anjing amit amit
 __label__harsh anjing ngakak
 __label__harsh anjing ni org mabok atau stress
 __label__harsh anjing rasanya mau ngespill tp males
-__label__harsh anjing sumpahw kira td yg reply mba tara. ganti dp om2 lagi buru
-__label__harsh anjing tolol ini ikut2an ngomongin kepercayaan orang lain dasar tolol urus saja kepercayaan kau kasian deh.
+__label__harsh anjing sumpahw kira td yg reply mba tara ganti dp om2 lagi buru
+__label__harsh anjing tolol ini ikut2an ngomongin kepercayaan orang lain dasar tolol urus saja kepercayaan kau kasian deh
 __label__harsh anjing ya gausa denger omongan orang bgst
-__label__harsh anjing! bangsat emg!
-__label__harsh anjing. daripada sama si v yang nolak lu
-__label__harsh anjir, bangsat kau
-__label__harsh apasih ngentot kontol asu babi memek, ginian aja lu share di base. anjay.
+__label__harsh anjing bangsat emg
+__label__harsh anjing daripada sama si v yang nolak lu
+__label__harsh anjir bangsat kau
+__label__harsh apasih ngentot kontol asu babi memekginian aja lu share di base anjay
 __label__harsh asu ngakak
 __label__harsh aswww bangsat
 __label__harsh awas aja lu kalau ketemu ntar di jalan
 __label__harsh babi la cok tak samaaaa
-__label__harsh babi ngepet !!!
+__label__harsh babi ngepet 
 __label__harsh bajingan ga nyampe2
-__label__harsh bajingan...bangsat... lo bukan siapa-siapa, kok sombong banget!!!!
+__label__harsh bajingan bangsat lo bukan siapa siapa kok sombong banget
 __label__harsh bangsat alay tenan asu
 __label__harsh bangsat kau penipu,anjing tobat lo sebelum ajal menjemput
 __label__harsh bangsat lama banget
 __label__harsh bangsat si tai wkwk
-__label__harsh banyak bangsat dan kntl ini orang lo.
-__label__harsh Baru loe aja tukang ojek yang nganter ribet
-__label__harsh batal aja ya pak udah capek saya nunggu nya
+__label__harsh banyak bangsat dan kntl ini orang lo
+__label__harsh baru loe aja tukang ojek yang nganter ribet
+__label__harsh batal aja ya  udah capek nunggu nya
 __label__harsh batalin aja dah babi
 __label__harsh bejat,bangsat,biadab tuh orang
-__label__harsh benci plk aku tengok bangsat ni fvck
-__label__harsh bisalah om, kan meteka menggonggong bicaranya, gaya anjing peking
+__label__harsh benci plk  tengok bangsat ni fvck
+__label__harsh bisalah omkan meteka menggonggong bicaranyagaya anjing peking
 __label__harsh bising ah anjing
 __label__harsh bloon anjing
 __label__harsh bodo amatlah anjing
-__label__harsh brengsek, bangsat, goblok, jancuk, bacot
+__label__harsh brengsekbangsatgoblokjancukbacot
 __label__harsh buruan woi gua telat kerja nih
 __label__harsh buruan woi lelet bet bawa motor
 __label__harsh capek ah bangsat bikin males pagi2 aja anjing lo
-__label__harsh caper tolol babi saya tunggu kamu di semester tinggi
-__label__harsh culun bet w, anjing
+__label__harsh caper tolol babi tunggu kamu di semester tinggi
+__label__harsh culun bet wanjing
 __label__harsh cwok kaya anjing gitu
-__label__harsh dahlah cancel. Udah kesel gua anjing
+__label__harsh dahlah cancel udah kesel gua anjing
 __label__harsh dahlah capek nunggu nya
-__label__harsh dahlah gw cancel aja mampus awkkwakwa
-__label__harsh dahlah gw kasih bintang 1 aja
-__label__harsh dari mana aja lu
+__label__harsh dahlah cancel aja mampus awwakwa
+__label__harsh dahlah kasih bintang 1 aja
+__label__harsh dari mana aja lu nyet
 __label__harsh dasar anak anjing
 __label__harsh dasar anjing
 __label__harsh dasar babi
 __label__harsh dasar bangsat sialan
-__label__harsh dasar cowok bangsat!!
+__label__harsh dasar cowok bangsat
 __label__harsh demen anjing sampe kaya anjing hehe
 __label__harsh diam monyet
-__label__harsh dih anjing bgt setannya minta di ruqyah
-__label__harsh dingin bat anjing, bodo amat lah ga mandi aja gua
+__label__harsh dih anjing bgt setannya minta diruqyah
+__label__harsh dingin banget anjing bodo amat lah ga mandi aja gua
 __label__harsh dosen bangsat
-__label__harsh dulu punya pacar yg baik, nggk kyak skrng brutal sprti bangsat!!
-__label__harsh dulu sih sayang sayangan udah putus eh anjing anjingan
-__label__harsh efek terlalu sering bergaul sama anjing makanya kelakuan si nong jdi begitu.
-__label__harsh eh bangsat ribut yuk sini sama gua !!
+__label__harsh dulu punya pacar yg baik nggak kayak skrng brutal sprti bangsat
+__label__harsh dulu sihngngan udah putus eh anjing anjingan
+__label__harsh efek terlalu sering bergaul sama anjing makanya jd begitu
+__label__harsh eh bangsat ribut yuk sini sama gua 
 __label__harsh eh mana tau ni anjing lah kau
 __label__harsh elu dimana sih tolol
-__label__harsh emang dasar bajingan enggak tau malu loo
-__label__harsh flaws on your face looks beautiful with a nice camera. dapat camera phone baling anjing.. hmmm
-__label__harsh ga usah so islami kalo kelakuan masih bangsat! gua ga seneng sama lu
-__label__harsh ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu.
-__label__harsh ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu.
-__label__harsh ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu...
+__label__harsh emang dasar bajingan enggak tau malu lo
+__label__harsh flaws on your face looks beautiful with a nice camera dapat camera phone baling anjing hmmm
+__label__harsh ga usah so islami bangsat gua ga seneng sama lu
+__label__harsh ga usah sok ngartis sih anjing banyak gaya lu
+__label__harsh ga usah sok ngartis sih anjing sok cantik banyak gaya
+__label__harsh ga usah sok ngartis sih anjing jangan sok cantik banyak gaya lu
 __label__harsh gaada otak anjing
 __label__harsh ganggu bgt anjing pengen gue penggal
 __label__harsh gede banget barangnya anjing
 __label__harsh gila lama amat
 __label__harsh gua tandain plat motor lu ye
-__label__harsh Gue order bukan baru sekali GOBLOK.
-__label__harsh gue sih pengennya naburin di badan bapak emak lo babi! kontol bacot lo setan iblis lo bangsat!
-__label__harsh gw batalin aja dahh order nya
-__label__harsh gw batalin yak kambing
-__label__harsh gw cancel yak wkwkwkw
-__label__harsh Gw ga peduli atas bawah! Lu jual gua beli
-__label__harsh gw udah muak. Gua cancel aja ye
-__label__harsh hai salam kenal (pending) | dpnya cantik, orang mana? (pending) | lagi ngapain nih? (pending) | dasar anjing!! (delivered)
-__label__harsh heh kontol, jan sok pemes lu di rp, muka kek memek, org tua lu kek monyet, agama lu aje agama kontol
+__label__harsh gue order bukan baru sekali goblok
+__label__harsh gue sih pengennya naburin di badan bapak emak lo babi kontol bacot lo setan iblis lo bangsat
+__label__harsh batalin aja dahh order nya bangsat
+__label__harsh batalin yak kambing
+__label__harsh cancel yak muak gue wkwkwkw
+__label__harsh ga peduli atas bawah lu jual gua beli
+__label__harsh udah muak gua cancel aja ye
+__label__harsh hai salam kenal (pending) | dpnya cantik orang mana (pending) | lagi ngapain nih (pending) | dasar anjing (delivered)
+__label__harsh heh kontol jan sok pemes lu muka kek memek org tua lu kek monyet agama lu aje agama kontol
 __label__harsh hipokrit anjing hahahaha
 __label__harsh hp rusak anjing ah
 __label__harsh ini gua berdiri dekat pertigaan tolol
 __label__harsh ini gua udah dari tadi diri di sini njing
-__label__harsh itu pacar apa monyet. ko hobinya nge gantungin kamu mulu. udah putusin aja daripada makan hati
-__label__harsh jangan jadi anjing jilat sana sini . depan temen belaiin temen . temen dijelekin malah eh ntahlah
-__label__harsh jd nih orang, keturunan monyet.. liat aja mukanya
-__label__harsh jgn pernah percaya dgn org, depan suci tapi belakang mcm anjing
-__label__harsh jijik bangsat masih pagi ah
-__label__harsh kalau lu juga suka ama dia bilang. gak usah ngejelekin nama w di depan dia. anjing
+__label__harsh itu pacar apa monyet ko hobinya nge gantungin kamu mulu udah putusin aja daripada makan hati
+__label__harsh jangan jadi anjing jilat sana sini  depan temen belaiin temen  temen dijelekin malah eh ntahlah
+__label__harsh jd nih orang keturunan monyet liat aja mukanya
+__label__harsh jgn pernah percaya dgn org depan suci tapi belakang mcm anjing
+__label__harsh jijik bangsat ih pagi ah
+__label__harsh kalau lu juga suka ama dia bilang gak usah ngejelekin nama w di depan dia anjing
 __label__harsh kalo g ada anjing sm bgst tu ky kurang aja ngetik di ini grup
-__label__harsh Kalo ga bakalan gua cari lu
-__label__harsh kalo temen yang anjing gimana? boleh?
+__label__harsh kalo ga bakalan gua cari lu
+__label__harsh kalo temen yang anjing gimana boleh
 __label__harsh kamu bukan ulama bangsat
-__label__harsh kan elo monyet
+__label__harsh kan lo monyet
 __label__harsh kara ingin mengumpat anjing tai babi 
-__label__harsh kartu merah yg gk pntng. bangsat
+__label__harsh kartu merah yg gk pntng bangsat
 __label__harsh kaya anjing beraninya cuma sama cewe
 __label__harsh kaya tai congor muka lebar kaya anjing
 __label__harsh kenapa harus umur segini si babi
 __label__harsh keripik kaca maksud gua anjing suuzon mulu lu sama gua
-__label__harsh kesel deh pagi2 anjing ku masa mau gigit perban kakiku
-__label__harsh ketiduran, bangun bangun pengen maki. bangsat.
-__label__harsh kok anjing?!
+__label__harsh kesel deh pagi2 anjing kua mau gigit perban kakiku
+__label__harsh ketiduran bangun bangun pengen maki bangsat
+__label__harsh kok anjing
 __label__harsh kontol asu
 __label__harsh kukira kau rumah ternyata kandang babi
 __label__harsh laamaaaa parahhh
 __label__harsh lama amat tolol
-__label__harsh lama amat, mau gua kasih bintang satu ?
+__label__harsh lama amatmau gua kasih bintang satu 
 __label__harsh lama banget woi
 __label__harsh lama bet anjeng
 __label__harsh lama bet babi
-__label__harsh lama bet, gua kasih bintang satu ni ye
+__label__harsh lama betgua kasih bintang satu ni ye
 __label__harsh lama nya ga ada otak
 __label__harsh lama nya ga ngotak woi
 __label__harsh lamaaaaa woi
 __label__harsh lamaaaaaaa anjing
-__label__harsh lancau anjing.. stressnya aku..
-__label__harsh lgbt lgbt tai anjing, kaga ngedukung dibilang ga berperikemanusiaan. tai lah
-__label__harsh lo bejat, bangsat, brengsek
-__label__harsh lo mau maenin cewe? gue kasih monyet cewe sini biar puas
-__label__harsh lo perek pemalan pejuh belaga pake hijab segala. neraka buat lo anjing
-__label__harsh loh, mulainya jam stengah 7? kek apa sih anjing sekolahku ini 
-__label__harsh lu belum jalan ya ?
-__label__harsh lu bisa ga bawa motor ga kayak perempuan ?
-__label__harsh lu dimana sih sialan ?
-__label__harsh lu ga bisa bawa motor cepetan dikit, hah ?
-__label__harsh lu ga jalan2 ya ?
-__label__harsh lu ga niat narik hah ?
+__label__harsh lancau anjing stressnya 
+__label__harsh lgbt lgbt tai anjing kaga ngedukung dibilang ga berperikemanusiaan tai lah
+__label__harsh lo bejat bangsat brengsek
+__label__harsh lo mau maenin cewe gue kasih monyet cewe sini biar puas
+__label__harsh lo perek pemalan pejuh belaga e hijab segala neraka buat lo anjing
+__label__harsh loh mulainya jam stengah 7 kek apa sih anjing sekolahku ini 
+__label__harsh lu belum jalan ya 
+__label__harsh lu bisa ga bawa motor ga kayak perempuan 
+__label__harsh lu dimana sih sialan 
+__label__harsh lu ga bisa bawa motor cepetan dikithah 
+__label__harsh lu ga jalan2 ya 
+__label__harsh lu ga niat narik hah 
 __label__harsh lu jalannya lambat banget njing
 __label__harsh lu muter2 kemana sih kocak
-__label__harsh Lu pikir lu aman
-__label__harsh lu udah dimana sih, babi ?
-__label__harsh lu udah dimana WOI
-__label__harsh macam bangsat dalam bas. kimak
+__label__harsh lu pikir lu aman
+__label__harsh lu udah dimana sihbabi 
+__label__harsh lu udah dimana woi
+__label__harsh macam bangsat dalam bas kimak
 __label__harsh makanya anjing kek gada akhlak bgt
-__label__harsh males itu kalo kerja pagi trus gak ada yg nganter, anjing
-__label__harsh malu anjing. biasanya pake ojek tuh bayarnya pakai gopay.
-__label__harsh mamakmu pelacur bajingan. jadi kau harus buktikan kalau kau bukan anak pelacur bajingan. bagaimana?
+__label__harsh males itu kalo kerja pagi trus gak ada yg nganter anjing
+__label__harsh malu anjing biasanya e ojek tuh bayarnya ai gopay
+__label__harsh mamakmu pelacur bajingan jadi kau harus buktikan kalau kau bukan anak pelacur bajingan bagaimana
 __label__harsh mantap anjing
-__label__harsh manusia kek gini harus nya di kebiri ! bangsat bejat
-__label__harsh masi pagi si anjing
-__label__harsh masih pagi tapi udah kayak anjing aja ini hidup
-__label__harsh misalnya ada suatu kondisi dimana kita lagi khawatirin si dia, tapi dia malah seneng-seneng sama yang lain. itu babi namanya.
-__label__harsh Monyeet
-__label__harsh monyet itu emang trus nyerang nu banser dan ulama nu ,semakin kurang ajar emang
+__label__harsh manusia kek gini harus nya di kebiri  bangsat bejat
+__label__harsh pagi si anjing
+__label__harsh ih pagi tapi udah kayak anjing aja ini hidup
+__label__harsh misalnya ada suatu kondisi dimana kita lagi khawatirin si dia tapi dia malah seneng seneng sama yang lain itu babi namanya
+__label__harsh monyeet
+__label__harsh monyet itu emang trus nyerang nu banser dan ulama nu semakin kurang ajar emang
 __label__harsh monyet lu
 __label__harsh monyet ngomong monyet ah lu
-__label__harsh mood ancur bangsat masi pagi iniiii
-__label__harsh morning kalian.,moga kalian baik2 aja deh maju lu sini anjing
+__label__harsh mood ancur bangsat pagi iniiii
+__label__harsh morning kalian, moga kalian baik2 aja deh maju lu sini anjing
 __label__harsh muka mcm anjing
-__label__harsh mukaa lo sama dia passs sama smaa bulukkk jd jadiann deh sono anjing sama babiii
-__label__harsh ngarepin banjir supaya ngga ada aktifitas. egois banget, kaya monyet
-__label__harsh ngatain orang sok inggris lu men, tapi dia sendiri kalo bilang makasih tetep bilang thanks bro, ah munafik anjing
+__label__harsh muka lo sama dia pas sama sama buluk jd jadian deh sono anjing sama babiii
+__label__harsh ngarepin banjir supaya ngga ada aktivitas egois banget kaya monyet
+__label__harsh ngatain orang sok inggris lu men tapi dia sendiri kalo bilang makasih tetep bilang thanks bro ah munafik anjing
 __label__harsh ni monyet pake dp tapi kerja nya gibulin orang2
 __label__harsh nyepam bgt anjing
-__label__harsh nyesel gue ngestalk anjing! bangsat
-__label__harsh oh elu anjing, pantesan. mana sini so nice sekali hap nya, kenalin sm gua
-__label__harsh ok anjing anak pelacur mak sundal?i'm coming for u sooner or later.
-__label__harsh padahal harusnya bangga tinggal nyebutin... aneh nih otak babi
-__label__harsh pagi ini cuma mau panggil anjing aja buat elo yang naik motornya ugal ugalan.
+__label__harsh nyesel gue ngestalk anjing bangsat
+__label__harsh oh lu anjing pantesan mana sini so nice sekali hape nya kenalin sm gua
+__label__harsh ok anjing anak pelacur mak sundal i'm coming for u sooner or later
+__label__harsh padahal harusnya bangga tinggal nyebutin aneh nih otak babi
+__label__harsh pagi ini cuma mau panggil anjing aja buat lo yang naik motornya ugal ugalan
 __label__harsh pagi pagi dah jadi babi 
 __label__harsh penipu nih bangsat
-__label__harsh sabtu minggu masuk siangan tapi jam 6 biasanya dah dibangunin ih bangsat anj
+__label__harsh sabtu minggu siangan tapi jam 6 biasanya dah dibangunin ih bangsat anj
 __label__harsh salah colok anjing
-__label__harsh sama, gue juga tidur.. dan berharap menang.. eh anjing, taunya pas bangun kalah. apa ga kntl!
+__label__harsh samague juga tidur dan berharap menang eh anjing taunya pas bangun kalah apa ga kntl
 __label__harsh sampah si anjing
-__label__harsh saya cancel aja pak. Kelamaan soalnya
+__label__harsh cancel aja  kelamaan soalnya
 __label__harsh sejenis anjing lah kau
 __label__harsh sekali2 emang kudu d kasih shock therapy itu anjing
-__label__harsh si anjing jualan obat.. wkwk
+__label__harsh si anjing jualan obat wkwk
 __label__harsh si anjing si anjing
 __label__harsh si bangsat ga gerak2
-__label__harsh si monyet bangsat, gue kurang apa coba. emng situ aja yg keganjenan sok polos babiiii
-__label__harsh si tolol ga bisa cepet ya?
+__label__harsh si monyet bangsat gue kurang apa coba emng situ aja yg keganjenan sok polos babiiii
+__label__harsh si tolol ga bisa cepet ya
 __label__harsh si tolol ga gerak2
 __label__harsh sok geulis anjing
 __label__harsh sombong amat nih org anjing
 __label__harsh sumpah bangsat
-__label__harsh sumpah ya ini tuh mereka udah ganteng pake item2, kameranya juga ga banyak gaya, eh si anjing malah nyorot audience
-__label__harsh tadinya mau beli anjing buat jadi temen. tapi, udah banyak temen yang pada kaya anjing 
+__label__harsh sumpah ya ini tuh mereka udah ganteng pake item2 kameranya juga ga banyak gaya eh si anjing malah nyorot audience
+__label__harsh tadinya mau beli anjing buat jadi temen tapi udah banyak temen yang pada kaya anjing 
 __label__harsh tai kayak member lu bangsat
-__label__harsh takut dibegal asu
+__label__harsh tt dibegal asu
 __label__harsh teman kayak anjing yaallah
-__label__harsh temen apaan lo? gak ada lo juga gue gak rugi kali bangsat!
-__label__harsh temenan : gue elu | pdkt: aku kamu | jadian: pipi mimi | putus: anjing goblog 
-__label__harsh terlalu anjing untuk di ingat, terlalu bangsat untuk dikenang, terlalu sampah untuk merindu. aku wes ora peduli ~
-__label__harsh tu ah, babi betul. kau pukul din
-__label__harsh udah 45 menit nih. Lu ada dimana woi
-__label__harsh udah dari tadi gw tungguin bangsat
-__label__harsh Udah sekarang jangan banyak bacot lu balikin hati bini gua
-__label__harsh udah stengah jam nih. Lu dimana woi
+__label__harsh temen apaan lo gak ada lo juga gue gak rugi kali bangsat
+__label__harsh temenan: gue elu | pdkt:  kamu | jadian: pipi mimi | putus: anjing goblog 
+__label__harsh terlalu anjing untuk di ingatterlalu bangsat untuk dikenangterlalu sampah untuk merindu  wes ora peduli ~
+__label__harsh tu ah babi betul kau pukul din
+__label__harsh udah 45 menit nih lu ada dimana woi
+__label__harsh udah dari tadi tungguin bangsat
+__label__harsh udah sekarang jangan banyak bacot lu balikin hati bini gua
+__label__harsh udah stengah jam nih lu dimana woi
 __label__harsh untung puasa klo gak udah gua maki lo anjeeng bangsat
-__label__harsh ups... muke babi ngepet ditayangin lg 
-__label__harsh We anjeng udah belum?
+__label__harsh ups muke babi ngepet ditayangin lg 
+__label__harsh we anjeng udah belum
 __label__harsh weh anjing gue diem doang disalahin
-__label__harsh weh anjing, bangsat bacot lo kontol!
-__label__harsh wkwkwkwk emg ngapain anjing????org ga ngapa2in
-__label__harsh woi akun anjing palalu pitak sejak kapan ygvkaya gitu kena pasal ? modar aja luh nyet cebong !
-__label__harsh woy tony bangsat, are you liverpool shit fan? do you know liverpool is fuckin bullshit like city hah anjing?
-__label__harsh ya biasa lah otak goblok, apa2 dikaitin sama agama, tp dia sendiri munafik anjing..
-__label__harsh yeee anjing,udah livestream 1 jam lebih malah di cancel karna cuaca
+__label__harsh weh anjing bangsat bacot lo kontol
+__label__harsh wkwkwkwk emg ngapain anjing org ga ngapa2in
+__label__harsh woi anjing palalu pitak sejak kapan yg kaya gitu kena pasal modar aja luh nyet cebong 
+__label__harsh woi tony bangsat are you liverpool shit fan do you know liverpool is fuckin bullshit like city hah anjing
+__label__harsh ya biasa lah otak goblok apa2 dikaitin sama agama tp dia sendiri munafik anjing
+__label__harsh yeee anjing, udah livestream 1 jam lebih malah di cancel karna cuaca
 __label__harsh lelet amat lu bawa motor nya
-__label__harsh cepetan, gua udah telat ini !!!
-__label__harsh lu niat jadi driver ojol ga sih ?
-__label__harsh woi lu kapan mau jemput gue ?
+__label__harsh cepetan gua udah telat ini 
+__label__harsh lu niat jadi driver ojol ga sih 
+__label__harsh woi lu kapan mau jemput gue 
 __label__harsh kalau lagi ada orderan jangan ambil order gua goblok
 __label__harsh kalau udah ada orderan jangan ambil yang lain anjing
-__label__harsh capek ah, gua kasih rating satu aje
-__label__harsh cape deh, saya kasih rating satu aja ya
-__label__harsh kalau masih ga nyampe dalam sepuluh menit, orderan gw batalin
-__label__harsh cepetan dikit woi bawa motor nya. Ga tau orang lagi buru2 apa
-__label__harsh gw lagi buru2 nih cepetan ke sini kntl
-__label__harsh ini driver tergblk yg pernah gw liat
-__label__harsh ini driver tertolol menurut gw
+__label__harsh capek ah gua kasih rating satu aje
+__label__harsh cape deh kasih rating satu aja ya
+__label__harsh kalau masih ga nyampe dalam sepuluh menit orderan batalin
+__label__harsh cepetan dikit woi bawa motor nya ga tau orang lagi buru2 apa
+__label__harsh lagi buru2 nih cepetan ke sini kntl
+__label__harsh ini driver ter gblk yg pernah liat
+__label__harsh ini driver tertolol menurut
 __label__harsh lu kok gblk banget sih jadi driver ojol
-__label__harsh gw uninstall jg nih aplikasi lama2
+__label__harsh uninstall jg nih aplikasi lama2
 __label__harsh ini aplikasi ama driver nya sama2 tolol
-__label__harsh nih aplikasi udah lelet, driver nya juga lelet
+__label__harsh nih aplikasi udah lelet driver nya juga lelet
 __label__harsh aplikasi ama driver sama2 ga becus
 __label__harsh ga becus lu jadi driver ojol
 __label__harsh lu nya aja gk becus bawa motor
-__label__harsh gw udah emosi ni, awas aja lu ga nyampe dalam lima menit
+__label__harsh udah emosi ni awas aja lu ga nyampe dalam lima menit
 __label__harsh lu jadi driver baca map aja ga becus
-__label__harsh woi lu kemana sih. ga bisa liat map
-__label__harsh map nya dibaca pekok !! gw udah berdiri disini stengah jam
-__label__harsh jangan boong lu !! ini di map nya lu masih jauh
-__label__harsh lu baru bangun tidur ya ?
-__label__harsh jangan bohong lu! di map aja posisi lu masih jauh
-__label__harsh lu kalau tau posisi nya jauh jangan ngambil orderan gw kimak
-__label__harsh gw ga mau tau, pokoknya harus nyampe posisi dalam 5 menit
+__label__harsh woi lu kemana sih ga bisa liat map
+__label__harsh map nya dibaca pekok  udah berdiri disini stengah jam
+__label__harsh jangan boong lu  ini di map nya luih jauh
+__label__harsh lu baru bangun tidur ya 
+__label__harsh jangan bohong lu di map aja posisi luih jauh
+__label__harsh lu kalau tau posisi nya jauh jangan ngambil orderan kimak
+__label__harsh ga mau taupokoknya harus nyampe posisi dalam 5 menit
 __label__harsh ini si kampang ga nyampe2 deh
-__label__harsh harus dibilangin berapa kali baru lu ngerti ?
-__label__harsh pake nanya posisi gw dimana. Map nya dibaca tolol
-__label__harsh itu map fungsi nya biar lu tau posisi gw. Jangan nanya lagi goblok
-__label__none _waktu sekolah mah actual cinta monyet haha. yakan ga kasian apa mereka sama hati nutrijell gue yah gue alay
+__label__harsh harus dibilangin berapa kali baru lu ngerti 
+__label__harsh nanya posisi dimana map nya dibaca tolol
+__label__harsh itu map fungsi nya biar lu tau posisi jangan nanya lagi goblok
+__label__none _waktu sekolah mah actual cinta monyet haha yakan ga kasian apa mereka sama hati nutrijell gue yah gue alay
 __label__none abis maghrib yaa
 __label__none ada belakang warkop deket indomaret gerum 500/bulan
 __label__none ada di bip yang studio fotonya gitu
-__label__none ada yg tdk bisa jam tertentu? kemungkinan pagi jam 8, tapi nanti diumumkan.
-__label__none aku ada spagetti, tp usah kaldaluarsa belum yah
-__label__none aku bawa daging yg dah direbus gapapa? yg mentah tinggal tulang2an wkwk
-__label__none aku bayar sesuai tarif di aplikasi aja ya.
-__label__none aku besok dtg agak telat jam 8 boleh ngga? kan jam 10 ya mulainya?
-__label__none aku depan pasca skrng
-__label__none aku dy wkwk makanya kurang direstui jg krna kejauhan
-__label__none aku ga ke upi sepertinya
-__label__none aku jg blm berangkt wkwk
-__label__none aku lagi di depan restoran gede.
-__label__none aku mau bawa balon sm coklat min. mau nitip?
-__label__none aku suka dia, sama dia juga suka. tapi kenapa sih mama bilang kalau ini cinta monyet 
-__label__none alhamdulillah, makasih yaaa udah meluangkan waktu
+__label__none ada yg tdk bisa jam tertentu kemungkinan pagi jam 8tapi nanti diumumkan
+__label__none ada spagetti tp udah kaldaluarsa belum yah
+__label__none bawa daging yg dah direbus gapapa yg mentah tinggal tulang2an wkwk
+__label__none bayar sesuai tarif di aplikasi aja ya
+__label__none besok dtg agak telat jam 8 boleh ngga kan jam 10 ya mulainya
+__label__none depan pasca skrng
+__label__none wkwk makanya kurang direstui jg krna kejauhan
+__label__none ga ke upi sepertinya
+__label__none jg blm berangkt wkwk
+__label__none lagi di depan restoran gede
+__label__none mau bawa balon sm coklat min mau nitip
+__label__none suka dia sama dia juga suka tapi kenapa sih mama bilang kalau ini cinta monyet 
+__label__none alhamdulillah makasih yaaa udah meluangkan waktu
 __label__none anak anjing jantan sengaja membuat anak anjing betina menang ketika mereka sedang bermain
-__label__none anak-anak anjing dalmatian terlahir murni putih polos, spot-spot berwarna hitam muncul dan berkembang seiring dengan mereka dewasa.
+__label__none anak anak anjing dalmatian terlahir murni putih polos spot spot berwarna hitam muncul dan berkembang seiring dengan mereka dewasa
 __label__none anjing aing palanya habis bocor berantem sama anjing kampung rebutan cewe
 __label__none anjing emang ganggu ya gonggong terus huf
-__label__none anjing laut jalannya pake perut
-__label__none anjing menggonggong kafilah berlalu
-__label__none anjing trah basenji adalah satu-satunya anjing yang tidak menggonggong/menyalak di dunia.
-__label__none anjing yang menggonggong biasanya tidak menggigit. orang yang banyak bicara biasanya tidak bisa bekerja.
-__label__none apakah anda butuh bantuan lain?
-__label__none ayo, segera masuk, jangan lama-lama.
-__label__none baik, kk
-__label__none baik, pastikan pintu bagasi sudah terbuka.
-__label__none baik, terima kasih atas bantuannya.
-__label__none banyak ibu2 atau bapak2 atau nenek2 yang bawa kereta bayi, tapi begitu diintip isinya ternyata anjing.
-__label__none baru kali ini jogging di sini, dan pas di jalan baru sadar di sini banyak anjing berkeliaran
-__label__none Batalin ma kamu mas
-__label__none bebas... senin stuju.. apa aja yg di kebapain selain program ?
-__label__none beberapa hewan dianugerahi bisa melihat jin, seperti keledai dan anjing
+__label__none putar balik dulu lumayan jauh
+__label__none muternya kejauhan ya
+__label__none lokasi agak jauh dari titik awal
+__label__none jalan dulu
+__label__none apakah anda butuh bantuan lain
+__label__none ayo segera masuk jangan lama lama
+__label__none baik
+__label__none baik pastikan pintu bagasi sudah terbuka
+__label__none baik terima kasih atas bantuannya
+__label__none banyak ibu2 atau ba2 atau nenek2 yang bawa kereta bayi tapi begitu diintip isinya ternyata anjing
+__label__none baru kali ini jogging di sini dan pas di jalan baru sadar di sini banyak anjing berkeliaran
+__label__none batalin order kamu
+__label__none bebas senin stuju apa aja yg di kebapain selain program 
+__label__none udah ketemu belum
 __label__none beli es kelapa depan d besto teh
-__label__none belum de.. saya lagi nyoba ngejar..
-__label__none bener banget mba, dulu aku suka gangguin anjing tetangga terus aku dikejernya
-__label__none besok kekantor saya tunggu jam 9 ya..
-__label__none besok mau ke kampus lagi ga?
+__label__none belum de lagi nyoba ngejar
+__label__none bener banget mbadulu  suka gangguin anjing tetangga terus  dikejernya
+__label__none besok kekantor tunggu jam 9 ya
+__label__none besok mau ke kampus lagi ga
 __label__none besok siang ya jam 2
-__label__none bisa bu...buka jam 11 bu
-__label__none bisa kurang dari 15rb ga pak, sebelumnya kita pernah acara sama bebek komar sekitar iti 13.5rb awal tahun 2015
-__label__none bisa membantu saya dengan pesanan ini?
+__label__none bisa bubuka jam 11 bu
+__label__none bisa kurang dari 15rb ga sebelumnya kita pernah acara sama bebek komar sekitar iti 135rb awal tahun 2015
+__label__none bisa membantu dengan pesanan ini
 __label__none boleh minta alamat nya kalo dari gang softball kmna gtu
-__label__none boleh yang di depan ramen aa gpp jam 12.39 ya
+__label__none boleh yang di depan ramen aa gpp jam 1239 ya
 __label__none boneka monyet kecil ini yg slalu menemani hari2ku
-__label__none bot itu bukannya temennya dora yang monyet ya?
-__label__none cinta monyet cie wkwk
-__label__none cinta monyet rasa suka2 pada nilai2 fisik yg disukai, seperti cinta hewan pada sesamanya. cinta sejati itu cinta ibu pd anaknya penuh kasih.
-__label__none cinta monyet waktu masih anak-anak itu lucu dan konyol, tapi perasaan cintanya tulus dan tidak pake modus.
-__label__none cokelat dan kismis  dapat membunuh anjing.
-__label__none cokelat merupakan racun bagi anjing dan kucing.
-__label__none cuma karena anjing... okay
-__label__none dh nyampe belom kak ?
-__label__none di beberapa negara banyak yurisdiksi yang memberlakukan apabila sengaja melukai atau membunuh anjing polisi adalah kejahatan besar
-__label__none di dunia nyata juga ada tapi tokoh liciknya yang anjing bukan kucing.
-__label__none di new jersey dari department of corrections melatih anjing untuk mengendus ponsel tersembunyi.
-__label__none di tengah sains yg hebat, membantu mengingatkan anak2 kita, bhw asal usul manusia bkn dr keturunan monyet tp keagungan ciptaan tuhan
-__label__none di tunggu ya kk
-__label__none dikejar anjing pagi-pagi. nuhun.
-__label__none Ditunggu om
+__label__none bot itu bukannya temennya dora yang monyet ya
+__label__none otw dulu tunggu nyampe ya
+__label__none masih otw
+__label__none di jalan lagi otw
+__label__none boleh ditunggu lagi otw
+__label__none lagi otw lumayan macet
+__label__none sudah dekat sedikit lagi
+__label__none dh nyampe belom 
+__label__none udah di depan gedung utama
+__label__none sudah sampai
+__label__none sudah di lobi
+__label__none lobi bagian mana
+__label__none ditunggu ya 
+__label__none dikejar anjing pagi pagi nuhun
+__label__none ditunggu nyampe om
 __label__none ditunggu ya ka
-__label__none dokter hewan memastikan apa anjing itu sakit atau tidak melalui keadaan dan bau di dalam telinganya.
-__label__none doktrin darwin sebagai iman anda, seharusnya anda bisa buktikan bahwa monyet yg ada skrg sudah bisa berbicara
-__label__none enggak usah ya, makasih. saya langsung mau pulang aja.
-__label__none gak papa, aku ngerti kok kondisi jalanan. makasih udah kasih info.
-__label__none guinness book of world records, anjing terkecil yg pernah ada adlh seekor yorkshire terrier yg beratnya hanya 2ons pada usia 2tahun
-__label__none hai, pagi! siap antar ke mana, pak?
-__label__none halo, apakah anda sudah siap untuk dijemput?
-__label__none halo, sudah siap dijemput nih?
-__label__none harapan km apa sih di thn monyet api ini? share dong harapan km di bareng bear brand
-__label__none harganya 100000 pak ga cukup juga?
-__label__none hari ini lalu lintas agak padat. mohon maaf atas keterlambatannya.
-__label__none hari ini macet banget loh, maaf ya jadi agak telat.
-__label__none hyena tidak terkait dengan anjing, mereka jauh lebih terkait erat dengan kucing.
+__label__none di pintu barat atau timur
+__label__none udah sampe tapi pintu barat sama timur lumayan jauh
+__label__none enggak usah ya makasih langsung mau pulang aja
+__label__none gak papa ngerti kok kondisi jalanan makasih udah kasih info
+__label__none motor di pintu utara dekat satpam
+__label__none hai pagi siap antar ke mana
+__label__none halo apakah anda sudah siap untuk dijemput
+__label__none halo sudah siap dijemput nih udah nyampe
+__label__none harapan km apa sih di thn monyet api ini share dong harapan km di bareng bear brand
+__label__none harganya seratus ribu  ga cukup juga
+__label__none hari ini lalu lintas agak padat mohon maaf atas keterlambatannya
+__label__none hari ini macet banget lohmaaf ya jadi agak telat
+__label__none hyena tidak terkait dengan anjingmereka jauh lebih terkait erat dengan kucing
 __label__none hyorin memiliki hewan peliharaan yaitu anjing
-__label__none ia memiliki seorang kakak perempuan dan seekor anak anjing
-__label__none iya, aku udah nunggu di depan pintu.
-__label__none jangan lupa beri bintang lima jika puas.
-__label__none jangan mentang-mentang kamu anak gaul. pas dikejar anjing bukannya lari malah bilang 'terus gue harus kabur sambil bilang wow gitu?'
-__label__none jual grosir makanan anjing makanan kucing untuk petshop
-__label__none jual makanan anjing (dog food) happy dog murah harga promo
-__label__none ka.... saya sudah di lokasi jmput ya
-__label__none ka....sy udah di lokasi jemput ya
-__label__none kalau ada masalah, langsung kabari ya.
-__label__none kalau mau ngecas hp, bisa di sini.
-__label__none kalau sudah siap, konfirmasi ya.
-__label__none kamu dan aku kayak anjing dan kucing. yang satu setia, yang satu gampang manja sama siapa aja.
-__label__none kecuali manusia dan monyet, semua mamalia buta warna
-__label__none kehadiran orang baru, anjing atau kucing baru, di sebuah rumah dapat menyebabkan seekor kucing menjadi stres.
-__label__none kondisi lalu lintas memang cukup padat hari ini.
-__label__none laika adalah seekor anjing astronot luar angkasa pertama di dunia. diluncurkan satelit bumi buatan di tahun 1957 oleh pemerintah rusia.
-__label__none lokasi saya di depan toko sepatu.
-__label__none maaf, aku agak nyasar nih. bisa kasih petunjuk lagi gak?
-__label__none maaf, bisa beri petunjuk lagi?
-__label__none maaf, saya agak tersesat. bisa beri petunjuk lagi?
-__label__none makasih udah naik bareng hari ini. semoga harimu menyenangkan!
-__label__none makasih ya udah pake jasa kita. ada yang bisa aku bantu lagi?
-__label__none makasih! udah gitu aja, makasih bantuannya.
-__label__none mana yang lebih lucu, anak anjing atau anak kucing?
-__label__none manusia bukan satu-satunya makhluk hidup yang bisa tertawa. hewan seperti anjing dan kucing juga bisa tertawa.
-__label__none Mas, ada wifi di mobilnya?
-__label__none Mas, aku mau numpang bawa barang ini, bisa?
-__label__none Mas, bawa charger HP, aku lupa.
-__label__none Mas, berapa estimasi harga ke tujuan?
-__label__none Mas, berhenti sebentar, aku mau beli kopi.
-__label__none Mas, berhenti sebentar, aku mau beli sesuatu.
-__label__none Mas, bisa antar ke alamat ini, ya?
-__label__none Mas, bisa antar ke destinasi ini, ya?
-__label__none Mas, bisa bawa air minum? Lama perjalanan nih.
-__label__none Mas, bisa jemput teman saya juga?
-__label__none Mas, cepetan, ada kereta jam 8 pagi.
-__label__none Mas, gimana kalo makanan ini diambil dulu?
-__label__none Mas, gimana kalo ngerokok dulu di perjalanan?
-__label__none Mas, gimana kalo radio dimatikan?
-__label__none Mas, ini ada barang pecah belah, hati-hati.
-__label__none Mas, ini alamat teman saya, jemput dia dulu.
-__label__none Mas, ini alamat teman saya, jemput dia dulu.
-__label__none Mas, ini kantorku, parkir di depan ya.
-__label__none Mas, ini lokasinya rumah temen aku, bawa dulu ya.
-__label__none Mas, ini pesan makanan, bawa hati-hati ya.
-__label__none Mas, jangan lupa pakai masker, ya.
-__label__none Mas, nanti aku kasih tambahan buat cepat.
-__label__none Mas, nanti aku kasih testimoni bagus.
-__label__none Mas, nanti aku kasih tip lewat aplikasi.
-__label__none Mas, nanti bayarnya aku lewat aplikasi.
-__label__none Mas, sebentar ya, aku nyari uang di dalam.
-__label__none Mas, tolong bawa jaket, cuaca tiba-tiba dingin.
-__label__none Mas, tolong bawa jaket, cuacanya dingin.
-__label__none Mas, tolong jangan nyetir terlalu kencang.
-__label__none Mas, udah deket belum?
-__label__none Mas, udah deket belum?
-__label__none mau tanya, hukumya org islam pelihara anjing? kan byk kalangan artis yg plihara?
-__label__none minum dulu air mineralnya, ya.
-__label__none monggo masuk aja, pintu bagasinya udah aku buka.
-__label__none motor saya di depan minimarket.
-__label__none nanti saya jemput di depan toko sepatu ya.
-__label__none nitip anjing, fotonya nemu di reddit
-__label__none nurani anjingmu kebanyakan makan anjing sama babi jadi tingka lakumu ngga bedah jauh bangsat
-__label__none ok, ka
-__label__none Ok, kk
-__label__none Okay, kak
-__label__none oke ka
-__label__none oke, kak
-__label__none Oke, kak
-__label__none oke, kak
-__label__none oke, makasih ya udah bantuin.
-__label__none oke, udah sampe di depan kantor kamu.
-__label__none orang melihat monyet adalah revolusi dari manusia karena monyet dan manusia dapat berjalan tegak.
-__label__none pada mei 2007, mourinho sempat ditangkap karena diduga menghalangi polisi yang hendak mengkarantina anjing peliharaannya
-__label__none pagi juga. aku mau ke kantor pusat di jalan raya.
-__label__none pagi juga. saya menuju kantor pusat di jalan raya.
-__label__none pagi k
-__label__none pahamilah bahwa sifat anjing sangat luhur moral dan beretika kepada tuannya, teman dan penjaga yg baik , tentunya setia
-__label__none Pak, ada promo gak buat perjalanan ini?
-__label__none Pak, ada uang kecil gak buat kembalian?
-__label__none Pak, ada wifi di mobilnya?
-__label__none pak, apakah anda ingin berhenti sebentar di minimarket sebelum sampai di tujuan?
-__label__none Pak, bawa satu botol air minum ya, laper.
-__label__none Pak, bisa ke minimarket sebentar, aku beli sesuatu.
-__label__none Pak, bisa lewat jalan sepi biar cepat.
-__label__none Pak, cepetan ya, ada janji penting.
-__label__none Pak, jangan lewat jalan macet, cari alternatif.
-__label__none Pak, jangan lewat jalan tol, biar lebih murah.
-__label__none Pak, jangan lewat jalan tol, cari alternatif.
-__label__none Pak, jangan lupa bawa air minum, ya, keselamatan nomor satu.
-__label__none Pak, jangan lupa helm ya, keselamatan nomor satu.
-__label__none Pak, jangan lupa helm ya, safety first!
-__label__none Pak, mau pesan makanan juga, bisa gak?
-__label__none pak, mau singgah dulu ke minimarket sebentar sebelum sampai?
-__label__none Pak, nanti aku kasih tip kalau udah sampai.
-__label__none Pak, nanti aku kasih tip lewat aplikasi.
-__label__none Pak, nanti aku minta bon atau struk.
-__label__none Pak, nanti aku minta kode penumpang, ya.
-__label__none Pak, nanti bayarnya aku lewat aplikasi, ya.
-__label__none Pak, nanti bayarnya aku lewat aplikasi.
-__label__none Pak, tadi lupa bawa jaket, bisa stop sebentar?
-__label__none Pak, tadi nyasar, maafin ya, bisa diulang?
-__label__none Pak, terimakasih udah antar, sukses terus!
-__label__none Pak, terimakasih ya udah antar sampe rumah.
-__label__none Pak, tolong cepetan, aku udah telat.
-__label__none Pak, tolong jangan bawa bau rokok di mobil.
-__label__none Pak, tolong jangan ceramah panjang ya.
-__label__none pakai masker ya, udah siap jemput.
-__label__none pakai sabuk pengaman ya, mas.
-__label__none pastikan datang tepat waktu ya.
-__label__none pastikan kendaraannya bersih ya.
-__label__none pengen anjing kayak gini sayang
-__label__none penyakit anjing gila atau rabies :penyakit yang menyerang anjing, kucing, kera dll
+__label__none menunggu di lobi utara
+__label__none iya udah nunggu di depan pintu
+__label__none jangan lupa beri bintang lima jika puas
+__label__none jangan mentang mentang kamu anak gaul pas dikejar anjing bukannya lari malah bilang 'terus gue harus kabur sambil bilang wow gitu'
+__label__none pintu selatan agak ramai jadi saya muter
+__label__none di pintu selatan saja saya tunggu
+__label__none ka sudah di lokasi jmput ya
+__label__none ka udah di lokasi jemput
+__label__none kalau ada masala hlangsung kabari
+__label__none kalau mau ngecas hp bisa di sini ya
+__label__none kalau sudah siap konfirm
+__label__none makan dulu sedikit
+__label__none habisin teh dulu
+__label__none mau ngopi dulu biar ga ngantuk
+__label__none kondisi lalu lintas memang cukup padat hari ini
+__label__none butuh ngopi sedikit biar ngantuk ilang
+__label__none lokasi di depan toko sepatu
+__label__none maaf agak nyasar nih bisa kasih petunjuk lagi gak
+__label__none maafbisa beri petunjuk lagi
+__label__none maafagak tersesat bisa beri petunjuk lagi
+__label__none makasih udah naik bareng hari ini semoga harimu menyenangkan
+__label__none makasih ya udah pake jasa kita ada yang bisa dibantu lagi
+__label__none makasih udah gitu aja makasih bantuannya
+__label__none tehnya diabisin dulu
+__label__none di motornya ada stiker
+__label__none ada wifi di mobilnya
+__label__none mau numpang bawa barang ini bisa
+__label__none bawa charger hp lupa
+__label__none berapa estimasi harga ke tujuan
+__label__none berhenti sebentar mau beli kopi
+__label__none berhenti sebentar mau beli sesuatu
+__label__none bisa antar ke alamat ini ya
+__label__none bisa antar ke destinasi ini ya
+__label__none bisa bawa air minum lama perjalanan nih
+__label__none bisa jemput teman juga
+__label__none cepetan ada kereta jam 8 pagi
+__label__none gimana kalo makanan ini diambil dulu
+__label__none gimana kalo ngerokok dulu di perjalanan
+__label__none gimana kalo radio dimatikan
+__label__none ini ada barang pecah belahhatihati
+__label__none ini alamat teman boleh jemput dia dulu
+__label__none ini alamat teman jemput dia dulu
+__label__none ini kantorku parkir di depan ya
+__label__none ini lokasinya rumah temen bawa dulu ya
+__label__none ini pesan makanan bawa hati hati ya
+__label__none jangan lupa aikerya
+__label__none nanti kasih tambahan buat cepat
+__label__none nanti kasih testimoni bagus
+__label__none nanti kasih tip lewat aplikasi
+__label__none nanti bayarnya  lewat aplikasi
+__label__none sebentar ya nyari uang di dalam
+__label__none tolong bawa jaket cuaca tiba tiba dingin
+__label__none tolong bawa jaket cuacanya dingin
+__label__none tolong jangan nyetir terlalu kencang
+__label__none udah deket belum ya
+__label__none udah deket belum
+__label__none deket lagi sampai
+__label__none minum dulu air mineralnya ya
+__label__none monggo masuk aja pintu bagasinya udah  buka
+__label__none motor di depan minimarket
+__label__none nanti jemput di depan toko sepatu ya
+__label__none sudah kelihatan belum
+__label__none nurani anjingmu kebanyakan makan anjing sama babi jadi tingka lmu ngga bedah jauh bangsat
+__label__none okei
+__label__none ok
+__label__none okay kak
+__label__none okee ka
+__label__none okeee kak
+__label__none oke deh kak
+__label__none okey
+__label__none oke makasih ya udah bantuin
+__label__none oke udah sampe di depan kantor kamu
+__label__none orang melihat monyet adalah revolusi dari manusia karena monyet dan manusia dapat berjalan tegak
+__label__none sudah lihat samper
+__label__none pagi juga  mau ke kantor pusat di jalan raya
+__label__none pagi juga menuju kantor pusat di jalan raya
+__label__none pagi kak
+__label__none selamat pagi awali hari
+__label__none ada promo gak buat perjalanan ini
+__label__none ada uang kecil gak buat kembalian
+__label__none ada wifi di mobilnya
+__label__none apakah anda ingin berhenti sebentar di minimarket sebelum sampai di tujuan
+__label__none bawa satu botol air minum yalaper
+__label__none bisa ke minimarket sebentar beli sesuatu
+__label__none bisa lewat jalan sepi biar cepat
+__label__none cepetan ya ada janji penting
+__label__none jangan lewat jalan macet cari alternatif
+__label__none jangan lewat jalan tol biar lebih murah
+__label__none jangan lewat jalan tol cari alternatif
+__label__none jangan lupa bawa air minumya keselamatan nomor satu
+__label__none jangan lupa helm keselamatan nomor satu
+__label__none jangan lupa helm safety first
+__label__none mau pesan makanan juga bisa gak
+__label__none mau singgah dulu ke minimarket sebentar sebelum sampai
+__label__none nanti kasih tip kalau udah sampai
+__label__none nanti kasih tip lewat aplikasi
+__label__none nanti minta bon atau struk
+__label__none nanti minta kode penumpangya
+__label__none nanti bayarnya lewat aplikasiya
+__label__none nanti bayarnya di aplikasi
+__label__none tadi lupa bawa jaket bisa stop sebentar
+__label__none tadi nyasar maafin ya bisa diulang
+__label__none terima kasih udah antar sukses terus
+__label__none terima kasih udah antar sampe rumah
+__label__none tolong cepetan udah telat
+__label__none tolong jangan bawa bau rokok di mobil
+__label__none tolong jangan ceramah panjang ya
+__label__none yaudah siap jemput
+__label__none pakai sabuk pengaman
+__label__none pastikan datang tepat waktu
+__label__none pastikan kendaraannya bersih
+__label__none pengen anjing kayak gining
+__label__none penyakit anjing gila atau rabies penyakit yang menyerang anjing kucing kera dll
 __label__none pria asal china tewas karena selfie dengan anjing laut
-__label__none saat tinggal di indonesia, barrack obama pernah memelihara monyet bernama tata.
-__label__none sama-sama, terima kasih atas informasinya.
-__label__none saya ada di depan restoran yang besar.
-__label__none saya ada di pinggir jalan utama.
-__label__none saya akan menghindari jalan berlubang.
-__label__none saya akan parkir di depan gedung.
-__label__none saya akan putar lagu apa nih?
-__label__none Saya ingin Anda mengirimkan pesanan ini ke rumah saya
-__label__none saya nunggu di dekat pohon besar.
-__label__none saya nunggu di halte bus.
-__label__none saya pakai jaket merah.
-__label__none saya pakai motor hitam, nanti pasti ketemu.
-__label__none saya pakai topi hitam.
-__label__none saya pake baju kotak-kotak.
-__label__none saya pake syal merah.
-__label__none saya sangat butuh barang-barang ini pak ada di toko terdekat tidak?
-__label__none saya sudah di lokasi
-__label__none saya udah nunggu di depan gedung beberapa menit.
-__label__none saya udah siap di depan pintu.
-__label__none sebelum menjalankan mobil periksa dan astikan tidak ada hewan seperti kucing atau anjing yg berlindung di area ban atau mobil.
-__label__none sebentar lagi saya sampai, tunggu ya.
-__label__none selamat malam, di mana tujuan malam ini?
-__label__none Selamat Pagi kak
-__label__none selamat pagi, pak. saya siap membantu anda. ke mana tujuan anda hari ini?
-__label__none selamat siang! di mana tujuan anda hari ini?
-__label__none selamat sore! saya tiba di lokasi. di mana anda berada?
+__label__none saat tinggal di Indonesia barrack obama pernah memelihara monyet bernama tata
+__label__none sama sama terima kasih atas informasinya
+__label__none ada di depan restoran yang besar
+__label__none ada di pinggir jalan utama
+__label__none akan menghindari jalan berlubang
+__label__none akan parkir di depan gedung
+__label__none akan putar lagu apa nih
+__label__none ingin anda mengirimkan pesanan ini ke rumah
+__label__none nunggu di dekat pohon besar
+__label__none nunggu di halte bus
+__label__none pakai jaket merah
+__label__none pakai motor hitam nanti pasti ketemu
+__label__none pakai topi hitam
+__label__none pake baju kotak kotak
+__label__none pake syal merah
+__label__none sangat butuh barangbarang ini ada di toko terdekat tidak
+__label__none sudah di lokasi
+__label__none udah nunggu di depan gedung beberapa menit
+__label__none udah siap di depan pintu
+__label__none sebelum menjalankan mobil periksa dan pastikan tidak ada hewan seperti kucing atau anjing yg berlindung di area ban atau mobil
+__label__none sebentar lagi sampai tunggu ya
+__label__none selamat malam di mana tujuan malam ini
+__label__none selamat pagi kak
+__label__none selamat pagi siap membantu anda ke mana tujuan anda hari ini
+__label__none selamat siang di mana tujuan anda hari ini
+__label__none selamat sore tiba di lokasi di mana anda berada
 __label__none semakin lemah seekor anjing semakin keras gonggongannya
-__label__none semoga perjalanan anda menyenangkan!
+__label__none semoga perjalanan anda menyenangkan
 __label__none sesama anjing putih berantem
-__label__none siap, kak
-__label__none silakan beri tahu jika ada masalah.
-__label__none silakan ikuti jalan ini dan belok kiri di pertigaan.
-__label__none slmt pagi kk
-__label__none so sweet, pemain ini gendong anjing pengganggu laga
-__label__none sore! udah sampe nih. kamu di mana?
-__label__none sudah di depan pintu menunggu.
-__label__none sudah sampai di mana kak ?
-__label__none sudah siap dijemput?
-__label__none sudah siap untuk dijemput?
-__label__none takut anjing = cynophobia
-__label__none tentu, lanjut terus jalan ini, terus belok kiri di lampu merah.
-__label__none tentu, silakan ikuti jalan ini dan belok kiri di lampu merah.
-__label__none tentu, tolong pastikan sabuk pengaman anda terpasang.
-__label__none terima kasih atas bantuan anda.
-__label__none terima kasih atas perjalanan hari ini. semoga hari anda menyenangkan!
-__label__none terima kasih juga. semoga harimu menyenangkan juga!
-__label__none terima kasih sudah menggunakan layanan kami. apakah ada hal lain yang bisa saya bantu?
-__label__none terima kasih! itu saja, terimakasih atas bantuannya.
-__label__none terima kasih, semoga anda puas dengan layanan kami.
-__label__none terlibat cinta monyet, dua abg ini pacaran di atas pohon sambil mencari kutu di kepala
-__label__none tidak apa-apa, saya juga mengerti kondisi jalanan. terima kasih atas informasinya.
-__label__none tidak masalah, semoga anda sampai dengan selamat.
-__label__none tidak, terima kasih. saya hanya ingin langsung pulang.
-__label__none Tolong antar pizza ke alamat yang tertera ya
-__label__none tolong jemput di depan kantor saya ya.
-__label__none tolong jemput di depan restoran kecil di sudut jalan.
-__label__none Tolong kirimkan pesanan saya dalam waktu 5 menit
-__label__none tolong konfirmasi kalau udah sampai.
-__label__none udah nyampe blom ?
+__label__none siap kak
+__label__none silakan beri tahu jika ada masalah
+__label__none silakan ikuti jalan ini dan belok kiri di pertigaan
+__label__none slmt pagi 
+__label__none pagi pagi udah ke puncak
+__label__none sore udah sampe nih kamu di mana
+__label__none sudah di depan pintu menunggu
+__label__none sudah sampai di mana 
+__label__none sudah siap dijemput
+__label__none sudah siap untuk dijemput
+__label__none biasanya 
+__label__none tentu lanjut terus jalan initerus belok kiri di lampu merah
+__label__none tentu silakan ikuti jalan ini dan belok kiri di lampu merah
+__label__none tentu tolong pastikan sabuk pengaman anda terpasang
+__label__none terima kasih atas bantuan anda
+__label__none terima kasih atas perjalanan hari ini semoga hari anda menyenangkan
+__label__none terima kasih juga semoga harimu menyenangkan juga
+__label__none terima kasih sudah menggunakan layanan kami apakah ada hal lain yang bisa bantu
+__label__none terima kasih itu sajaterimakasih atas bantuannya
+__label__none terima kasih semoga anda puas dengan layanan kami
+__label__none sukses terus selamat ulang tahun
+__label__none tidak apa apa juga mengerti kondisi jalanan terima kasih atas informasinya
+__label__none tidak masalah semoga anda sampai dengan selamat
+__label__none tidak terima kasih hanya ingin langsung pulang
+__label__none tolong antar pizza ke alamat yang tertera ya
+__label__none tolong jemput di depan kantor ya
+__label__none tolong jemput di depan restoran kecil di sudut jalan
+__label__none tolong kirimkan pesanan dalam waktu 5 menit
+__label__none tolong konfirmasi kalau udah sampai
+__label__none udah nyampe blom?
 __label__none udah nyampe mana kak?
 __label__none udah sampai tujuan. tarifnya berapa yang kamu mau?
-__label__none wah aku memelihara anjing n kucing nih
+__label__none udah nyampee
 __label__none ya, saya sudah menunggu di depan pintu.
 __label__none saya udah di depan pagar
 __label__none saya sudah sampai
@@ -769,256 +769,256 @@ __label__none kalau saya tunggu di jembatan aja gimana ka
 __label__none nanti saya kasih tip
 __label__none makasih mas, nanti saya kasih tip. maaf merepotkan
 __label__none maaf ngerepotin, nanti saya kasih tip
-__label__sexual sy lg pgn nyepong sampe crot di dalem mulut saya
-__label__sexual saya lagi mau nyepong sampe crot di mulut saya
+__label__sexual sy lg pgn nyepong sampe crot di dalem mulut
+__label__sexual lagi mau nyepong sampe crot di mulut
 __label__sexual pengen cobain nelen
 __label__sexual suka di bj gak
-__label__sexual mau saya bj ga nanti pas nganter
-__label__sexual mas maaf sblmnya mau di bj ga, ga usah bayar
-__label__sexual mau saya isepin ga punya mas
-__label__sexual saya kasih 100 nanti saya isepin punya mas
-__label__sexual 500 temenin saya di hotel gimana sambil minum
-__label__sexual kalo wrn celana dalamnya apa mba?
-__label__sexual mba pake celana dalam warna apa?
-__label__sexual warna cd nya apa kak?
-__label__sexual oke kk, klo cd warna apa ya ka
-__label__sexual sy cuma pngin isepin punya mas nya aja. abis itu sy bayar aja ongkosnya gk usah diantar.
-__label__sexual mas mau sy sepongin sampe crot ga?
-__label__sexual mau disepongin ga, nanti gausah bayar
-__label__sexual minat disepong ga mas, sy lagi mau
-__label__sexual mas mau di bj ga, nnti sy kasih 100
-__label__sexual kalau mau disepongin nanti saya kasih 100
-__label__sexual mau temenin saya minum di hotel ga kak
-__label__sexual temenin saya di hotel mau? nanti saya kasih 500
-__label__sexual Aku lagi ganti baju, Mas. Masuk aja dulu.
-__label__sexual Aku lagi ganti baju, Mas. Mau masuk?
-__label__sexual Aku mau ngobrol sama kamu, mampir ke kamarku yuk.
-__label__sexual Aku nambah gocap, tapi boleh oral dong?
-__label__sexual Aku nambah lima puluh, tapi aku boleh cium punya kamu ya?
-__label__sexual Aku nambah lima puluh, tapi aku boleh oral sama kamu ya?
-__label__sexual Boleh engga saya pegang celana bang?
-__label__sexual Boleh ke kamarku sebentar?
-__label__sexual Buka celana bang
-__label__sexual Buka celanamu.
-__label__sexual Gw nonton bokep belum kelar
-__label__sexual Janda ya bu
-__label__sexual Lepas celananya dong.
-__label__sexual Makasih mas, punyamu enak
-__label__sexual Makasih ya, mas, enak banget.
-__label__sexual Makasih, mas, enak banget.
-__label__sexual Mampir dulu ke kamarku yuk.
-__label__sexual Mas nya gay ga?
-__label__sexual Mas saya cuma pengen sp aja boleh gak. Nanti saya tambahi 50rb
-__label__sexual Mas, masuk kost aja, lagi ganti baju saya
-__label__sexual Mas, mau tipnya susu saya, boleh?
-__label__sexual Mas, nanti pas nganter mau saya bj ga?
-__label__sexual Mas, tipnya mau susu hangat atau susu saya
-__label__sexual Mas, tipnya susu saya, boleh nggak?
-__label__sexual Mas, tipnya susu saya, boleh ya?
-__label__sexual Masuk aja, Mas. Lagi ganti baju nih.
-__label__sexual Mau mampir ke kamar juga ga mas?
-__label__sexual Ngewe bang
-__label__sexual Panggil apa aja bebas, panggil sayang juga boleh
-__label__sexual Saya engas ini
-__label__sexual Saya kasih tambahan 50 tapi saya boleh oral punya mas
-__label__sexual Saya suka yang manis kaya kamu
-__label__sexual Top or Bot?
-__label__sexual Turunin celananya.
-__label__sexual Kak, mau di coliin kak sambil nyetir
-__label__sexual Kak, mau diurut-urut sambil nyetir
-__label__sexual 500 temenin saya di hotel sambil minum gimana?
-__label__sexual 500, temenin gua di hotel minum-minum, gimana?
-__label__sexual Sambil ena-ena hehehe
-__label__sexual Masnya dienakin mau?
-__label__sexual Mas, saya cewe uang saya cuma ada 180, bisa ga ya kurangnya dibayar pake diri saya, terserah mas mau apain
-__label__sexual Mas, saya lagi butuh duit, bisa ga bantuin? Saya bisa bayarnya pake diri saya.
-__label__sexual Mas, saya lagi butuh duit, bisa ga bantuin? Saya bisa kasih mas apa aja, terserah mas mau apa.
-__label__sexual Mas, saya lagi butuh duit, bisa ga bantuin? Saya bisa kasih mas apa aja, terserah mas mau apain.
-__label__sexual Mas, saya lagi butuh duit, bisa ga bantuin? Saya bisa bayarnya pake diri saya, terserah mas mau apain.
-__label__sexual Kalo mau dipuasin ajak aja aku siap layanin
-__label__sexual Kalo butuh cari kepuasan aku siap layani yaa
-__label__sexual Gimana kalo kamu puasin aku ya
-__label__sexual Ada yg besar tp bukan harapan
-__label__sexual Ada yg menonjol tp bukan bakat
+__label__sexual mau bj ga nanti pas nganter
+__label__sexual maaf sblmnya mau di bj gaga usah bayar
+__label__sexual mau isepin ga punya
+__label__sexual kasih 100 nanti isepin punya
+__label__sexual 500 temenin di hotel gimana sambil minum
+__label__sexual kalo wrn celana dalamnya apa mba
+__label__sexual mba pake celana dalam warna apa
+__label__sexual warna cd nya apa kak
+__label__sexual oke klo cd warna apa ya ka
+__label__sexual sy cuma pngin isepin punya nya aja abis itu sy bayar aja ongkosnya gk usah diantar
+__label__sexual mau sy sepongin sampe crot ga
+__label__sexual mau disepongin gananti gausah bayar
+__label__sexual minat disepong gasy lagi mau
+__label__sexual mau di bj nanti sy kasih 100
+__label__sexual kalau mau disepongin nanti kasih 100
+__label__sexual mau temenin minum di hotel ga kak
+__label__sexual temenin di hotel mau nanti kasih 500
+__label__sexual lagi ganti bajuuk aja dulu
+__label__sexual lagi ganti baju mau masuk
+__label__sexual mau ngobrol sama kamumampir ke kamarku yuk
+__label__sexual nambah gocap tapi boleh oral dong
+__label__sexual nambah lima puluh tapi boleh cium punya kamu ya
+__label__sexual nambah lima puluh tapi boleh oral sama kamu ya
+__label__sexual boleh engga pegang celana bang
+__label__sexual boleh ke kamarku sebentar
+__label__sexual buka celana bang
+__label__sexual buka celanamu
+__label__sexual nonton bokep belum kelar
+__label__sexual janda ya bu
+__label__sexual lepas celananya dong
+__label__sexual makasih punyamu enak
+__label__sexual makasih ya enak banget
+__label__sexual makasih enak banget
+__label__sexual mampir dulu ke kamarku yuk
+__label__sexual gay ga
+__label__sexual cuma pengen sp aja boleh gak nanti tambahi 50rb
+__label__sexual masuk kost ajalagi ganti baju
+__label__sexual mau tipnya susu boleh
+__label__sexual nanti pas nganter mau bj ga
+__label__sexual tipnya mau susu hangat atau susu
+__label__sexual tipnya susuboleh nggak
+__label__sexual tipnya susu boleh ya
+__label__sexual masuk aja lagi ganti baju nih
+__label__sexual mau mampir ke kamar juga ga
+__label__sexual ngewe bang
+__label__sexual panggil apa aja bebas panggil sayang juga boleh
+__label__sexual engas ini
+__label__sexual kasih tambahan 50 tapi boleh oral punya
+__label__sexual suka yang manis kaya kamu
+__label__sexual top or bot
+__label__sexual turunin celananya
+__label__sexual kak mau di coliin sambil nyetir
+__label__sexual kak mau diuruturut sambil nyetir
+__label__sexual 500 temenin di hotel sambil minum gimana
+__label__sexual 500temenin gua di hotel minumminumgimana
+__label__sexual sambil ena ena hehehe
+__label__sexual nya dienakin mau
+__label__sexual cewe uang cuma ada 180bisa ga ya kurangnya dibayar e diri terserah mau apain
+__label__sexual lagi butuh duitbisa ga bantuin bisa bayarnya pake diri
+__label__sexual lagi butuh duitbisa ga bantuin bisa kasih apa ajaterserah mau apa
+__label__sexual lagi butuh duitbisa ga bantuin bisa kasih apa aja terserah mau apain
+__label__sexual lagi butuh duit bisa ga bantuin bisa bayarnya pake diri terserah mau apain
+__label__sexual kalo mau dipuasin ajak aja siap layanin
+__label__sexual kalo butuh cari kepuasan siap layani yaa
+__label__sexual gimana kalo kamu puasin ya
+__label__sexual ada yg besar tp bukan harapan
+__label__sexual ada yg menonjol tp bukan bakat
 __label__sexual aduhhh ngaceng
 __label__sexual badan lu rata bgt kaya triplek
-__label__sexual badannya bagus, open BO gak?
-__label__sexual bang temenin saya semalem aja mau?
-__label__sexual Bang, temenin gue semalam aja mau nggak?
-__label__sexual Bang, temenin gue semalem aja mau?
-__label__sexual Bisa ga pap anunya?
+__label__sexual badannya bagusopen bo gak
+__label__sexual temenin semalem aja mau
+__label__sexual bang temenin gue semalam aja mau nggak
+__label__sexual bang temenin gue semalem aja mau
+__label__sexual bisa ga pap anunya
 __label__sexual boleh pap tete ga
-__label__sexual cobain kontol saya yuk
+__label__sexual cobain kontol yuk
 __label__sexual duh jd ngaceng
-__label__sexual gak ada niat open BO?
-__label__sexual gak usah malu-malu mbak, pap aja badannya
-__label__sexual Gue bayar tapi lu joget ya.
-__label__sexual kalo mau satu malem aja, berapa mbak?
-__label__sexual ke hotel yuk mbak kita enak-enak
-__label__sexual masih jomblo? sama saya yuk semalem aja
-__label__sexual Masih jomblo? Yuk, sama saya semalam aja.
-__label__sexual mau dibayar berapa biar ikut saya abis ini
-__label__sexual mau nyoba kontol saya gak
-__label__sexual mbak abis ini mau ikut ke hotel gak
-__label__sexual mbak cantik banget, mau tidur bareng aku?
-__label__sexual mbak ga usah bayar, tapi ikut saya ke kamar ya
-__label__sexual mbak pasang tarif berapa satu malam?
-__label__sexual mbak seksi banget, mau tidur bareng sama aku?
-__label__sexual mbak tadi seksi deh
-__label__sexual mbak yg seksi itu ya?
-__label__sexual Mbak, tarifnya berapa buat satu malam?
+__label__sexual gak ada niat open bo
+__label__sexual gak usah malu malu mbakpap aja badannya
+__label__sexual gue bayar tapi lu joget ya
+__label__sexual kalo mau satu malem ajaberapa mbak
+__label__sexual ke hotel yuk kita enakenak
+__label__sexual kalo masih jomblo sama saya yuk semalem aja
+__label__sexual masih jomblo bareng saya yuk semalam aja
+__label__sexual mau dibayar berapa biar ikut abis ini
+__label__sexual mau nyoba kontol gak
+__label__sexual abis ini mau ikut ke hotel gak
+__label__sexual cantik banget mau tidur bareng 
+__label__sexual ga usah bayartapi ikut ke kamar ya
+__label__sexual pasang tarif berapa satu malam
+__label__sexual seksi bangetmau tidur bareng sama 
+__label__sexual tadi seksi deh
+__label__sexual yg seksi itu ya
+__label__sexual tarifnya berapa buat satu malam
 __label__sexual mbaknya rata
-__label__sexual neng mau ngerasain punya saya ga
-__label__sexual Neng, habis ini mau ke hotel nggak?
-__label__sexual neng, mau nggak ke hotel sama saya?
-__label__sexual Neng, setelah ini mau pergi ke hotel nggak?
-__label__sexual open BO aja mbak, untung 
+__label__sexual neng mau ngerasain punya ga
+__label__sexual neng habis ini mau ke hotel nggak
+__label__sexual neng mau nggak ke hotel sama
+__label__sexual neng setelah ini mau pergi ke hotel nggak
+__label__sexual open bo aja untung 
 __label__sexual pap tete dong
 __label__sexual pap yang seksi dong mbak
 __label__sexual rata bgt kayak papan mbak
 __label__sexual sangat seksi
-__label__sexual Saya bayar, tapi kamu joget ya nanti.
-__label__sexual Saya bayar, tapi lu joget ya nanti.
-__label__sexual saya jd ngaceng
-__label__sexual saya jd ngaceng liatnya
+__label__sexual bayar tapi kamu joget ya nanti
+__label__sexual bayar tapi lu joget ya nanti
+__label__sexual jd ngaceng
+__label__sexual jd ngaceng liatnya
 __label__sexual seksi kali
 __label__sexual sexy bgt 
 __label__sexual sy bayar tapi kamu joget ya
-__label__sexual tidur bareng yuk, neng nya cantik
+__label__sexual tidur bareng yuk
 __label__sexual semok deh km 
 __label__sexual kamu semok deh
 __label__sexual semok bgt
-__label__sexual simpan no saya mbak nanti kita vcs
-__label__sexual mau mesum sama saya ga?
-__label__sexual hai cantik, boleh minta nomornya?
-__label__sexual seksi banget mbak, mau kemana?
-__label__sexual mau ditemenin ga?
-__label__sexual nanti pulangnya vcs ya mba
-__label__sexual wah mbak naik saya jadi tegang
+__label__sexual simpan no nanti kita vcs
+__label__sexual mau mesum sama ga
+__label__sexual hai cantik boleh minta nomornya
+__label__sexual seksi banget mbak mau kemana
+__label__sexual mau ditemenin ga
+__label__sexual nanti pulangnya vcs ya
+__label__sexual wah naik jadi tegang
 __label__sexual cantik banget mba bikin tegang
-__label__sexual kalo pulang mau dipuasin chat saya lagi ya
-__label__sexual tante bisa puasin saya ga
+__label__sexual kalo pulang mau dipuasin chat lagi ya
+__label__sexual tante bisa puasin ga
 __label__sexual mampir hotel yuk
-__label__sexual saya bisa puasin mbak
+__label__sexual bisa puasin mbak
 __label__sexual neng senderan kerasa dadanya
-__label__sexual dadanya besar banget mbak
-__label__sexual kak mau dicoliin sambil nyetir?
-__label__sexual aku gada cash kak, aku bayarnya sama coliin aja ya
-__label__sexual suka disepongi ga?
-__label__sexual bisa nyepong gratis sama saya mas
-__label__sexual saya puasin mas, nanti saya kasih 100
-__label__sexual temenin ke hotel ya mas sambil minum
-__label__sexual temenin ke hotel ya sambil saya isepin
-__label__sexual saya grepe sambil nyetir ya
-__label__sexual open bo ga mas?
-__label__sexual sange ga nyetirnya?
+__label__sexual dadanya besar banget
+__label__sexual mau dicoliin sambil nyetir
+__label__sexual gada cash kak bayarnya sama coliin aja ya
+__label__sexual suka disepongi ga
+__label__sexual bisa nyepong gratis sama
+__label__sexual puasin nanti kasih 100
+__label__sexual temenin ke hotel ya sambil minum
+__label__sexual temenin ke hotel ya sambil isepin
+__label__sexual grepe sambil nyetir ya
+__label__sexual open bo ga
+__label__sexual sange ga nyetirnya
 __label__sexual kok ga peka sih gue godain
-__label__sexual tunggu bentar ye, gw lagi ngebokep
-__label__sexual tunggu bentar, gw lagi nonton bokep
-__label__sexual bentar, gw lagi enak ngebokep
-__label__sexual bentar, dikit lagi crot
-__label__sexual bentar ye, gw hampir crot nih
-__label__sexual tunggu bentar yak, dikit lagi kelar nih film bokep nya
-__label__sexual kalau gw bayar nya pake bokep bisa ga ?
-__label__sexual ntar gw bayar deh pake koleksi bokep gw
-__label__sexual nanti gw kirimin bokep asalkan bisa gratis
-__label__sexual lu mau bokep ga ? gw kasih gratis nih
-__label__sexual mau gw kirim ke mana bokep nya ? ada wa ga ? kirimin ke sini nomor nya
-__label__sexual drop no wa lu nanti gw kirimin bokep nya
-__label__sexual sumpah ini bokep enak banget. Lu mau ga ?
-__label__sexual sebelum berangkat kita nobar bokep dulu ya
-__label__sexual mau beli bokep gw ga ? murah kok cuma 1rb per video
-__label__sexual gw lagi nonton bokep. Tungguin bentar ya
-__label__sexual gw lagi asik ngebokep. Lu tunggu bentar ya
-__label__sexual sini masuk aja. Kita nobar bokep dulu sebelum berangkat
-__label__sexual sebelum pergi kita nobar bokep dulu gimana ?
-__label__sexual bisa masuk ke kamarku ga mas ?
-__label__sexual sembari nunggu, masuk aja mas ke kamar ku
-__label__sexual bisa masuk bentar ke kamar saya ga ?
-__label__sexual masuk aja, saya lagi ga pake baju
-__label__sexual masuk dulu aja, saya lagi ga make busana
-__label__sexual masuk dulu aja, aku lagi bugil
-__label__sexual masuk ke kamarku aja, aku lagi ga make apa2
-__label__sexual lagi ga pake baju nih, masuk aja
-__label__sexual lagi ga pake busana nih, masuk aja
-__label__sexual cuma pake bra ama sempak doang, sini masuk ke kamarku
-__label__sexual aku tunggu di kamar aja ya
-__label__sexual aku tunggu di kamar ku ya
-__label__sexual saya lagi nunggu di tempat tidur nih
-__label__sexual saya nunggu di tempat tidur aja
-__label__sexual ayo sini ke kamar saya
+__label__sexual tunggu bentar ye lagi ngebokep
+__label__sexual tunggu bentar lagi nonton bokep
+__label__sexual bentar lagi enak ngebokep
+__label__sexual bentar dikit lagi crot
+__label__sexual bentar yegw hampir crot nih
+__label__sexual tunggu bentar yak dikit lagi kelar nih film bokep nya
+__label__sexual kalau bayar nya pake bokep bisa ga 
+__label__sexual ntar bayar deh pake koleksi bokep
+__label__sexual nanti kirimin bokep asalkan bisa gratis
+__label__sexual lu mau bokep ga  kasih gratis nih
+__label__sexual mau kirim ke mana bokep nya  ada wa ga  kirimin ke sini nomor nya
+__label__sexual drop no wa lu nanti kirimin bokep nya
+__label__sexual sumpah ini bokep enak banget lu mau ga 
+__label__sexual sebelum berangkat kita nobar bokep dulu
+__label__sexual mau beli bokep ga murah kok cuma seribu per video
+__label__sexual lagi nonton bokep tungguin bentar
+__label__sexual lagi asik ngebokep lu tunggu benta
+__label__sexual sini masuk aja kita nobar bokep dulu sebelum berangkat
+__label__sexual sebelum pergi kita nobar bokep dulu gimana 
+__label__sexual bisa masuk kamarku ga 
+__label__sexual sembari nunggu masuk aja ke kamar ku
+__label__sexual bisauk bentar ke kamar ga 
+__label__sexual masuk aja lagi ga pake baju
+__label__sexual masuk dulu ajalagi ga make busana
+__label__sexual masuk dulu aja lagi bugil
+__label__sexual masuk ke kamarku aja lagi ga make apa2
+__label__sexual lagi ga pake baju nih masuk aja
+__label__sexual lagi ga pake busana nih masuk aja
+__label__sexual cuma pake bra ama sempak  doang sini masuk ke kamarku
+__label__sexual tunggu di kamar aja ya
+__label__sexual tunggu di kamar ku ya
+__label__sexual lagi nunggu di tempat tidur nih
+__label__sexual nunggu di tempat tidur aja
+__label__sexual ayo sini ke kamar
 __label__sexual ayo sini ke kamar ku
-__label__sexual bentar ya mas, saya masih di kasur telanjang
-__label__sexual bentar ya, aku masih bugil di kasur
-__label__sexual sebelum pergi, kita ena ena dikit gimana mas ? hehe
-__label__sexual sebelum berangkat, kita cipokan dulu giamna mas ?
-__label__sexual punya nya mas gede ga ?
-__label__sexual punya nya mas ukuran nya berapa ?
-__label__sexual sebelum pergi, kita ngewe dulu gimana mas ? hehe
-__label__sexual kamu bikin aku engas bang hehe
-__label__sexual body mu montok kali mbak
-__label__sexual body mu montok kali, bikin saya engas
-__label__sexual body mu montok kali, bikin saya sange
-__label__sexual body mbak seksi kali deh
-__label__sexual body mbak seksi banget
-__label__sexual kamu montok banget mbak jadi bikin saya tegang
-__label__sexual saya jadi tegang mbak ngeliat body mu
-__label__sexual badan mu wangi dan sexy mbak
-__label__sexual aduh saya ga tahan ngeliat badan mbak yang semok
-__label__sexual badan mu sexy banget mbak jadi bikin ngaceng deh hehe
-__label__sexual saya lagi sange mas
-__label__sexual ini lagi engas berat mas
-__label__sexual aku tambahin dua puluh tapi boleh oral dong ?
-__label__sexual saya nambah dua lima tapi syaratnya bisa oral gimana tuh ?
-__label__sexual punya nya mas gede, jadi pengen oral hehe
-__label__sexual punya nya mas gede, pengen banget deh nge-bj hehe
-__label__sexual aku tambahin du puluh tapi boleh sepong dong ?
-__label__sexual kalau boleh sepong saya tambah lima puluh
-__label__sexual kalau boleh sepong aku tambah deh lima puluh lagi
-__label__sexual bisa nyampe dalam lima menit ga mas ? kalau bisa saya kasih bonus hj hehe
-__label__sexual bisa nyampe kurang dari lima menit ga ? ntar saya kasih bj deh
-__label__sexual ntar boleh peluk ya bang
-__label__sexual ntar boleh grepe celana ya bang
-__label__sexual ntar bisa pelukan ga mas ?
-__label__sexual nanti bisa pelukan ga bang ?
-__label__sexual nanti di jalan sambil saya grepe celana nya boleh ga bang ? hehe
-__label__sexual ntar resleting nya turunin aja mas biar saya bisa pegang kontol nya hehe
-__label__sexual ntar resleting nya dimerosotin aja mas biar bisa saya rangsang hehe
-__label__sexual ntar pas di jalan saya kocokin mau ga mas ?
-__label__sexual gapapa mbak kalau ga bayar kita cukup cipokan aja ntar
+__label__sexual bentar ya saya masih di kasur telanjang
+__label__sexual bentar ya masih bugil di kasur
+__label__sexual sebelum pergi kita ena ena dikit gimana  hehe
+__label__sexual sebelum berangkat kita cipokan dulu giamna 
+__label__sexual punya nya gede ga 
+__label__sexual punya nya ukuran nya berapa 
+__label__sexual sebelum pergi kita ngewe dulu gimana
+__label__sexual kamu bikin engas
+__label__sexual body mu montok kali
+__label__sexual body montok kali bikin engas
+__label__sexual body montok kali bikin sange
+__label__sexual body seksi kali deh
+__label__sexual body seksi banget
+__label__sexual kamu montok banget jadi bikin tegang
+__label__sexual jadi tegang ngeliat body mu
+__label__sexual badan mu wangi dan sexy
+__label__sexual aduh ga tahan ngeliat badan yang semok
+__label__sexual sexy banget jadi bikin ngaceng deh hehe
+__label__sexual lagi sange
+__label__sexual ini lagi engas berat
+__label__sexual tambahin dua puluh tapi boleh oral dong 
+__label__sexual nambah dua lima tapi syaratnya bisa oral gimana tuh 
+__label__sexual punya nya gede jadi pengen oral hehe
+__label__sexual punya nya gedepengen banget deh ngebj hehe
+__label__sexual tambahin dua puluh tapi boleh sepong dong 
+__label__sexual kalau boleh sepong tambah lima puluh
+__label__sexual kalau boleh sepong tambah deh lima puluh lagi
+__label__sexual bisa sampe dalam lima menit ga kalau bisa kasih bonus bj hehe
+__label__sexual bisa nyampe kurang dari lima menit ga ntar kasih bj deh
+__label__sexual ntar boleh peluk
+__label__sexual ntar boleh grepe celana
+__label__sexual ntar bisa pelukan ga 
+__label__sexual nanti bisa pelukan ga 
+__label__sexual nanti di jalan sambil grepe celana nya boleh ga  hehe
+__label__sexual ntar resleting nya turunin aja biar bisa pegang kontol nya hehe
+__label__sexual ntar resleting nya dimerosotin aja biar bisa rangsang hehe
+__label__sexual ntar pas di jalan kocokin mau ga 
+__label__sexual gapapa kalau ga bayar kita cukup cipokan aja ntar
 __label__sexual bayar nya pake cipokan aja mbak
-__label__sexual nanti kita ciuman aja mbak ga usah mikirin biaya deh hehe
-__label__sexual mbak boleh cipokan ga ? ga usah bayar deh ojol nya
-__label__sexual punya saya jadi keras sehabis ngeliat keindahan tubuh nya mbak
-__label__sexual kontol saya lagi keras nih mbak bisa kocokin ampe crot ga ? hehe
-__label__sexual aku mau cipok mulut nya mbak
-__label__sexual aku mau cium bibir nya mbak deh
+__label__sexual nanti kita ciuman aja ga usah mikirin biaya deh hehe
+__label__sexual boleh cipokan? ga usah bayar deh ojolnya
+__label__sexual punya jadi keras sehabis ngeliat keindahan tubuh nya mbak
+__label__sexual kontol lagi keras nih bisa kocokin ampe crot ga  hehe
+__label__sexual mau cipok mulutnya
+__label__sexual mau cium bibirnya deh
 __label__sexual bayar nya pake ciuman sebanyak 10 kali mbah hehe
 __label__sexual itu gunung kembar nya kok bisa gede banget mbak
-__label__sexual badan mbak nya hangat dan bikin saya terangsang
+__label__sexual badan nya hangat dan bikin terangsang
 __label__sexual gunung kembar nya gede banget jadi pengen pegang deh
-__label__sexual ntar pas udah kelar saya izin nyicip tete nya ya mbak hehe
-__label__sexual boleh ijin nyicip tt nya ga ?
-__label__sexual boleh liatin puting nya ga mbak ?
-__label__sexual ntar bayar nya cukup liatin puting aja mbak udah cukup kok bagi saya hehe
-__label__sexual mbak nya open bo ga ?
-__label__sexual mba nya semalam pasang harga berapa ?
-__label__sexual kalau crot di dalem harga berapa neng ?
+__label__sexual ntar pas udah kelar izin nyicip tete nya ya hehe
+__label__sexual boleh ijin nyicip tt nya ga 
+__label__sexual boleh liatin puting nya ga 
+__label__sexual ntar bayar nya cukup liatin puting aja udah cukup kok bagi hehe
+__label__sexual open bo ga 
+__label__sexual semalam pasang harga berapa 
+__label__sexual kalau crot di dalem harga berapa neng 
 __label__sexual neng nya cakep banget deh jadi pengen ngewe bareng
-__label__sexual ntar aku perosotin celana nya, mbak tinggal sepong yak
-__label__sexual nanti celana nya saya perosotin trus mba tinggal hj aja ampe crot
-__label__sexual boleh saya simpan nomor nya ga ? buat vcs
-__label__sexual boleh minta no wa ga ? biar ntar bisa vcs
-__label__sexual kalau vcs harga nya berapa neng ?
-__label__sexual vcs bisa berapa jam tuh ?
-__label__sexual mba nya mesum banget deh saya jadi terangsang
-__label__sexual mba nya mesum banget jadi ngebikin saya tegang
-__label__sexual habis ini boleh minta isepin kontol aku ga ?
+__label__sexual ntar perosotin celana nya tinggal sepong yak
+__label__sexual nanti celana nya perosotin trus mba tinggal bj aja ampe crot
+__label__sexual boleh simpan nomor nya ga buat vcs
+__label__sexual boleh minta no wa ga  biar ntar bisa vcs
+__label__sexual kalau vcs harga nya berapa neng 
+__label__sexual vcs bisa berapa jam tuh 
+__label__sexual mba nya mesum banget deh jadi terangsang
+__label__sexual mba nya mesum banget jadi ngebikin tegang
+__label__sexual habis ini boleh minta isepin kontol ga 
 __label__sexual anter ke hotel dulu biar kita bisa main bentar
-__label__sexual emang mas nya bisa crot berapa kali dalam sekali main ?
-__label__sexual janji ga crot duluan nih ?
-__label__sexual mas aku lagi ga ada duid, bayar nya pake hj aja ya
-__label__sexual mas aku lagi ga ada duid, bayar nya pake bj aja yak
+__label__sexual emang nya bisa crot berapa kali dalam sekali main 
+__label__sexual janji ga crot duluan nih 
+__label__sexual lagi ga ada duid bayar nya pake bj aja ya
+__label__sexual lagi ga ada duid bayar pake bj aja yak
 __label__sexual aku mau banget deh dipuasin ama mbak
 __label__sexual puasin aku dong mbak udah lama nih ga ngeseks
 __label__sexual simpan nomer ku ya biar nanti bisa ena ena lagi
