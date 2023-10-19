@@ -298,6 +298,17 @@ __label__fraud Sedang dalam situasi keuangan yang sulit, bisa digratisin aja ya
 __label__fraud Lagi kurang uang nih, boleh minta gratisan?
 __label__fraud Lagi kepepet uang, bisa gak ya, gratisin saja
 __label__fraud Lagi kurang uang nih, boleh minta gratisan?
+__label__fraud mas saya mintol pesen makanan ya nanti dibayar pake cod
+__label__fraud mas pesenin bakso dua porsi ntar bayar nya cod aja
+__label__fraud pak temen saya mintol order tiga bungkus nasgor via cod. Antar ke alamat ini aja
+__label__fraud ntar pas udah nyampe dibayar alias cod. Alamat nya di sini ya
+__label__fraud pesanan gantungin di pagar. Ntar bayar via cod aja soalnya lagi gaada e-money
+__label__fraud nasgor tiga bungkus minumnya es teh manis anter ke alamat di bawah ini
+__label__fraud mas mintol pesen makanan ya. ini app gofood lagi rusak. Antar ke alamat berikut
+__label__fraud tadi saya udah pesen makanan. Bisa tolong jemput ga mas ? Bayar pake uang mas dulu aja
+__label__fraud pak ada teman yang mintol order makanan. Ntar dia bayar pake cod dan pake alamat nya dia
+__label__fraud minta tolong order naspad 3 bungkus. Bayar cod ke alamat teman saya
+__label__fraud mas itu tadi saya ada orderan pas mau berangkat. Bisa ambilin trus bayar pake uang mas dlu ga ya ? ntar diganti uang nya
 __label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
 __label__harsh habis beli monyetmukanya mirip mantan kamu
 __label__harsh kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih
