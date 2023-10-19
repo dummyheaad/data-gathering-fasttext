@@ -346,6 +346,63 @@ __label__fraud tadi saya udah pesen makanan. Bisa tolong jemput ga mas ? Bayar p
 __label__fraud pak ada teman yang mintol order makanan. Ntar dia bayar pake cod dan pake alamat nya dia
 __label__fraud minta tolong order naspad 3 bungkus. Bayar cod ke alamat teman saya
 __label__fraud mas itu tadi saya ada orderan pas mau berangkat. Bisa ambilin trus bayar pake uang mas dlu ga ya ? ntar diganti uang nya
+__label__fraud boleh minta kirimkan alamat rumah nya ga kak ?
+__label__fraud kirim alamat rumah nya ke sini
+__label__fraud lokasi tempat tinggal nya dimana kalau boleh tau ?
+__label__fraud tempat tinggal kamu ada di mana ?
+__label__fraud kk tinggal di mana ya ?
+__label__fraud bisa send alamat rumah nya ?
+__label__fraud send address rumah nya ke sini
+__label__fraud kirimkan lewat chat saja mas
+__label__fraud kirimkan saja lewat chat nya
+__label__fraud shareloc rumah nya dong
+__label__fraud untuk peningkatan layanan harap kirimkan username dan password akun anda
+__label__fraud untuk password nya apa ya ?
+__label__fraud ini kak password nya
+__label__fraud ini mas password nya
+__label__fraud password nya apa benar seperti berikut ?
+__label__fraud kasih saya username dan password nya biar bisa saya bantu
+__label__fraud tolong pinjemin akun driver nya sebentar
+__label__fraud bisa pinjamin akun nya ke saya ga ?
+__label__fraud buat pembayaran bapak bisa install aplikasi ini dulu
+__label__fraud silakan dibuka link nya
+__label__fraud silahkan diakses link nya
+__label__fraud silahkan diinstall app nya
+__label__fraud mohon diinstall app nya
+__label__fraud dimohon untuk menginstall aplikasi nya
+__label__fraud coba install aplikasi ini mas
+__label__fraud saya dapat bonus dari menginstall aplikasi ini
+__label__fraud aplikasi ini bagus buat ningkatin peluang dapat customer mas. Coba deh diinstall
+__label__fraud norek nya apa benar begini ?
+__label__fraud saya butuh nomor rekening nya mbak
+__label__fraud coba pencet link ini pak
+__label__fraud untuk verifikasi pembayaran saya, bapak bisa pencet link ini
+__label__fraud tekan link ini untuk mengecek status pembayaran saya
+__label__fraud dapetin bonus driver dengan menekan link berikut
+__label__fraud tekan tautan ini untuk mendapatkan bonus anda
+__label__fraud biar dapat bonus bapak harus mengirimkan uang ke saya
+__label__fraud kata sandi nya apa ya kak ?
+__label__fraud kirim kata sandi nya lewat chat kak
+__label__fraud kk mau voucher cashback khusus driver ga ? cukup tekan link ini
+__label__fraud tf seratus ribu atau saya kasih bintang satu
+__label__fraud mas kasih saya uang lima puluh ribu atau saya kasih rating bintang satu
+__label__fraud kirim uang ke sy seratus ribu atau rating nya saya kasih bintang satu ?
+__label__fraud pilih mana ? ngerogoh kocek atau dikasih bintang satu ?
+__label__fraud isiin pulsa dong. kalau ga mau gw kasih bintang satu
+__label__fraud ntar di jalan mampir bentar ke warung. Beliin saya dua batang rokok. Nanti uang nya saya ganti
+__label__fraud mas nyediain pinjaman ga ? gapapa deh kalau ada bunga nya
+__label__fraud boleh pinjam seratus ribu dulu ? nanti saya balikin seratus lima puluh ribu
+__label__fraud pak tolongin temen saya. Dia perlu uang buat bayar kuliah
+__label__fraud cukup install dan klik verifikasi nanti keliatan tuh bukti pembayaran saya
+__label__fraud mas kalau saya bayar nya pakai aplikasi ini bisa ga ? lagi ga ada duit pas
+__label__fraud kode otp nya udah masuk mas ? kalau udah bagiin ke saya ya
+__label__fraud otp nya kirim lewat chat kak. Ditunggu
+__label__fraud mas mau ikut nyumbang ga ? pake link ini aja
+__label__fraud pak mau berdonasi ? saya kasih kode qr nya kalau mau
+__label__fraud mas mau berdonasi untuk anak yatim ? cukup kirimkan seikhlasnya ke link ini
+__label__fraud saya pinjam uang dulu ya mas buat berobat ibu. Nanti saya ganti lebih
+__label__fraud yaudah, sebagai jaminan saya minta foto wajah kk
+__label__fraud kirim foto wajah nya ke saya kak
 __label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
 __label__harsh alamat lu juga bisa dapat
 __label__harsh anak asu
