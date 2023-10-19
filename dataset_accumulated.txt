@@ -285,6 +285,67 @@ __label__fraud kirim norek ama pin penarikan nya ke sini
 __label__fraud pin ama norek nya apa ya mas ?
 __label__fraud kasih tau pin ama norek nya
 __label__fraud pin dan norek bisa dikirimkan ke saya mas ?
+__label__fraud kalau mau bonus fotoin sini ktp nya
+__label__fraud boleh minta foto ktp nya ? biar dapat bonus nih
+__label__fraud kalau pengen bisa fotoin ktp nya aja
+__label__fraud ktp nya difoto bisa kak?
+__label__fraud klik link ini buat dapetin voucher alfamart
+__label__fraud buka tautan ini buat dapat voucher diskon alfamart
+__label__fraud pake link ini buat dapet voucher diskon tetanggaku
+__label__fraud nih link buat dapet voucher shopeepay
+__label__fraud gunakan tautan ini untuk mendapatkan diskon tetanggaku
+__label__fraud sembari di jalan saya nitip rokok sampoerna satu bungkus ya
+__label__fraud bisa nitip rokok marlboro sebungkus ga ?
+__label__fraud nitip beliin rokok samsu satu slop ntar dibayar sekalian ama ongkos nya
+__label__fraud eh titipin rokok dua batang yak. Ntar diganti
+__label__fraud kak nitip sate padang ya. Kebetulan saya lagi laper
+__label__fraud ntar di jalan kalau nemu bakso tolong beliin ya. Nanti uang nya diganti
+__label__fraud pake uang mu dulu
+__label__fraud pake duid lu dulu yak
+__label__fraud gunain uang kamu dulu
+__label__fraud gunakan duid mas nya dulu ya mas, pliss
+__label__fraud kalo nemu naspad di jalan titip seporsi ya soalnya lagi laper
+__label__fraud lagi di warung ga mas ? kalau iya, saya nitip minuman dingin satu ya. Lagi haus banget
+__label__fraud nitip teh pucuk satu yang dingin. Ntar uang nya diganti
+__label__fraud nitip teh pucuk dingin nya satu. Nanti duid nya dibayarin lagi
+__label__fraud nitip air minum satu botol. Uang nya diganti pas orderan selesai
+__label__fraud lagi ada promo dari tetanggaku buat driver. Mau ga ? cukup klink link ini aja buat dapetin nya
+__label__fraud kak ini saya ada promo khusus driver. Cara dapetin nya cukup klik link ini ya
+__label__fraud cashback lima puluh persen khusus driver !!! Mau ? cukup klik link di bawah
+__label__fraud kak saya ada voucher cashback buat driver. Kalau mau cukup bayar lima ribu aja ke saya
+__label__fraud mas mau voucher tetanggaku ga ? kalau mau bisa beli ke saya. Harga nya murah kok
+__label__fraud pak mau beli voucher promo ga ? bayar sepuluh ribu aja
+__label__fraud mas saya boleh ga bayar dulu ? nanti pas naek lagi saya ganti deh
+__label__fraud mas duid saya lagi habis jadi boleh ga bayar dulu ? nanti pas naik ama mas lagi saya ganti
+__label__fraud gak bisa bayar soalnya lagi ga ada duit
+__label__fraud mas duid tunai saya ga cukup. Boleh ngutang dulu ?
+__label__fraud pak saya mau ngutang dulu. Ntar pas naik lagi dibayar
+__label__fraud bisa ngutang gak ? lagi buru2 banget nih
+__label__fraud saya bayar stengah nya dulu aja ya. Kapan2 diganti
+__label__fraud pak aku lagi bokek. Boleh gratis ga ?
+__label__fraud naik ojek nya bisa gratis ga mas ?
+__label__fraud plis gratisin aja ya mas. Sekali ini doang
+__label__fraud sekali2 bisa naek gratis ga ? hehe
+__label__fraud mas duid ku lagi ga cukup buat bayar. Boleh ga bayar ga mas ?
+__label__fraud lagi bokek banget nih. Gratisin aja ya
+__label__fraud Sedang kehabisan uang, tolong berikan secara cuma-cuma
+__label__fraud Kehabisan dana nih, bisa dong, gratiskan saja
+__label__fraud Lagi susah finansial, bisa gak ya, gratisin saja?
+__label__fraud Sedang dalam situasi keuangan yang sulit, bisa digratisin aja ya
+__label__fraud Lagi kurang uang nih, boleh minta gratisan?
+__label__fraud Lagi kepepet uang, bisa gak ya, gratisin saja
+__label__fraud Lagi kurang uang nih, boleh minta gratisan?
+__label__fraud mas saya mintol pesen makanan ya nanti dibayar pake cod
+__label__fraud mas pesenin bakso dua porsi ntar bayar nya cod aja
+__label__fraud pak temen saya mintol order tiga bungkus nasgor via cod. Antar ke alamat ini aja
+__label__fraud ntar pas udah nyampe dibayar alias cod. Alamat nya di sini ya
+__label__fraud pesanan gantungin di pagar. Ntar bayar via cod aja soalnya lagi gaada e-money
+__label__fraud nasgor tiga bungkus minumnya es teh manis anter ke alamat di bawah ini
+__label__fraud mas mintol pesen makanan ya. ini app gofood lagi rusak. Antar ke alamat berikut
+__label__fraud tadi saya udah pesen makanan. Bisa tolong jemput ga mas ? Bayar pake uang mas dulu aja
+__label__fraud pak ada teman yang mintol order makanan. Ntar dia bayar pake cod dan pake alamat nya dia
+__label__fraud minta tolong order naspad 3 bungkus. Bayar cod ke alamat teman saya
+__label__fraud mas itu tadi saya ada orderan pas mau berangkat. Bisa ambilin trus bayar pake uang mas dlu ga ya ? ntar diganti uang nya
 __label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
 __label__harsh alamat lu juga bisa dapat
 __label__harsh anak asu
