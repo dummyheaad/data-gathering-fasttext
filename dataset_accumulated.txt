@@ -1022,11 +1022,11 @@ __label__sexual lagi ga ada duid bayar pake bj aja yak
 __label__sexual aku mau banget deh dipuasin ama mbak
 __label__sexual puasin aku dong mbak udah lama nih ga ngeseks
 __label__sexual simpan nomer ku ya biar nanti bisa ena ena lagi
-__label__sexual mau ena ena ga mbak ?
+__label__sexual mau ena ena ga mbak?
 __label__sexual aku mau remas tt nya dong mba
 __label__sexual tt nya gede banget jadi pengen remas
 __label__sexual aku mau nyusu pake susu nya mbak deh hehe
-__label__sexual boleh nyusu ga mbak ? ga usah bayar deh
+__label__sexual boleh nyusu ga mbak? ga usah bayar deh
 __label__sexual mas colmek in dong
 __label__sexual mas colmekin dong
 __label__sexual masuk aja mas saya lagi colmek
@@ -1049,7 +1049,7 @@ __label__sexual pak, malem ini dingin banget nanti saya boleh peluk ya
 __label__sexual gede juga ya punya kakaknya
 __label__sexual punya mas gede juga ya
 __label__sexual bapak ojolnya wangi banget bikin pengen
-__label__sexual mbak, nanti pas diperjalanan peluk saya ya, dingin banget soalnya
+__label__sexual mbak, nanti pas di perjalanan peluk saya ya, dingin banget soalnya
 __label__sexual mas, nanti masuk dulu ya, temenin saya bentar
 __label__sexual mas, ini kan udah malem, nanti abis anterin saya nginep dulu aja
 __label__sexual masnya mau ga saya kasih 10 juta perbulan tapi jadi simpenan saya
@@ -1103,9 +1103,9 @@ __label__none terus belok kiri ikutin ajal
 __label__none oke udah ya cari aja
 __label__none jangan nanya mulu
 __label__none maaf mas gamau
-__label__sexual saya masih normal
+__label__none saya masih normal
 __label__none boleh gk
-__label__sexual penumpang cewek atau cowok?
+__label__none penumpang cewek atau cowok?
 __label__none maaf ya kak, saya nggak narik penumpang cewek
 __label__none bntr lagi berantem dulu sama suami
 __label__none sudah mas, billnya tolong dibuang ya
@@ -1129,7 +1129,7 @@ __label__none bukan kakaknya ih
 __label__none bentar aku turun
 __label__none kak boleh nitip gak
 __label__none mau sholat kan
-__label__none nitip do ke Allah biar dilancarkan segala urusan
+__label__none nitip doa ke Allah biar dilancarkan segala urusan
 __label__none tak tinggal mandi bentar, kalau nanti aku gaada kabar tolong dicantolin aja di pagar mas
 __label__sexual iya mbaa, met mandi
 __label__sexual mba, dah selesai mandinya
@@ -1151,7 +1151,7 @@ __label__none oke sgr dicarikan
 __label__none apa lg kemarin jumat kliwon
 __label__none itu udah keliatan putih 2 menuju rumah mu
 __label__none telan belnya pak
-__label__none bang ada kembaliannya ga? uang saya 100ribu
+__label__none bang ada kembaliannya ga? uang saya seratus ribu
 __label__none ok bang
 __label__sexual tadinya kalo gaada kembalian ambil aja semua, tapi saya sepongin bapaknya
 __label__none mas saya mau minta tolong usir kodok di kamar saya bisa ga?
@@ -1160,7 +1160,7 @@ __label__none saya takut mas soalnya
 __label__sexual saya engas ni
 __label__none magermu rezekiku kak
 __label__none sering2 ya kak
-__label__none udah skrg jan banyak bacot lu balikin hati bini gua
+__label__harsh udah skrg jan banyak bacot lu balikin hati bini gua
 __label__harsh kalo ga bakalan gua cari lu
 __label__none bentar jangan kesini dulu
 __label__none rumahnya yang mana ya bu
@@ -1200,7 +1200,7 @@ __label__harsh twitter logonya burung tapi isinya manusia, anjing, monyet, sama 
 __label__harsh ih babi kamu yang cantik pokoknya
 __label__harsh babi betul kau ini
 __label__harsh Bukan cuma bangsa, bajingan anjing. Babi goblog. Itu jauh lebih tepat
-__label__harsh Gak kreatif luu kunyuk
+__label__harsh Gak kreatif lu kunyuk
 __label__harsh Ngakak mulu lu kunyuk
 __label__harsh kaget babi
 __label__harsh bacot lu babi
