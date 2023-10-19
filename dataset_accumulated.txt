@@ -1540,3 +1540,69 @@ __label__fraud tolong telpon ke nomor ibu saya lalu mas telpon itu dia pakai kar
 __label__fraud kamu mau saya tipu gak HAHAHAH
 __label__fraud saya titip top up tp agak gede nanti saya ganti cash
 __label__fraud titip top up ya nominal agak gede, nanti saya ganti lebihin pake cash
+__label__fraud pak bisa isi pulsa saya?
+__label__fraud topup gopay pak biar bisa saya chat
+__label__fraud apa ada tambahan yang perlu dibeli?
+__label__fraud bayarnya ditambahin dong mba
+__label__fraud bisa titip rokok ga bang?
+__label__fraud bisa titip vape ga bang?
+__label__fraud berapa ongkirnya pak
+__label__fraud bang titip vape nanti saya kasi ongkir
+__label__fraud titip makanan nanti saya kasih ongkir
+__label__fraud fotoin bang rokonya 
+__label__fraud fotoin bang vapenya
+__label__fraud fotoin struknya
+__label__fraud fotoin bukti transfernya
+__label__fraud alamat emailnya apa ya?
+__label__fraud ada kode otp yang masuk ga?
+__label__fraud kodenya masuk ke email?
+__label__fraud nama emailnya apa?
+__label__fraud tolong catat emailnya saja
+__label__fraud rekeningnya berapa?
+__label__fraud nomornya simpan ya
+__label__fraud simpan aja nomornya 
+__label__fraud kodenya apa?
+__label__fraud no nya kirim aja
+__label__fraud abis isi pulsa, tfnya lebihin ya
+__label__fraud iya isi aja dlu nanti tf di lebihin
+__label__fraud nanti transfernya saya lebihin
+__label__fraud sudah masuk belum pulsanya?
+__label__fraud sudah masuk belum transferannya?
+__label__fraud sudah di transfer belum?
+__label__fraud sudah dibeli titipannya?
+__label__fraud mau voucher gratis ga mba?
+__label__fraud nih saya kasih hadiah mas
+__label__fraud nih syaa kasih voucher
+__label__fraud sudah dibeli titipannya?
+__label__fraud mau voucher gratis ga mba?
+__label__fraud mau hadiah ngga?
+__label__fraud selamat mba dapat hadiah 100 ribu
+__label__fraud selamat dapat voucer 5 juta
+__label__fraud hadiahnya nanti dikirim ke rumah saja mas
+__label__fraud bisa pinjam uang dulu?
+__label__fraud nanti saya trasnfer kalau sudah ad uag
+__label__fraud kalau sudah sampai saya ganti pak
+__label__fraud kalau sudah sampai saya bayar mas
+__label__fraud bisa bantu transfer skalin pak? kan sepi tu ya
+__label__fraud bisa tolong saya? ibu saya masih di rumah sakit
+__label__fraud mba bisa transfer dulu ga sekarang, bensin saya abis
+__label__fraud bisa tf dulu ga bensin saya habis
+__label__fraud bisa topup dulu ga kak, bensin saya habis
+__label__fraud bisa minta nomo rekeningnya
+__label__fraud minta nomor hpnya
+__label__fraud minta nomor handphone
+__label__fraud tolong cantumin nomor hp ya
+__label__fraud tolong cantumin no ktp bisa?
+__label__fraud minta no ktp dong
+__label__fraud no ktpnya brp
+__label__fraud bayarin dulu bensinnya bisa? nanti gue ganti
+__label__fraud bisa tolong isikan paket data?
+__label__fraud paket data saya habis? boleh pinjam uang dulu
+__label__fraud tolong isi paket data saya bisa? nanti saya ganti
+__label__fraud paket datanya isiin dulu
+__label__harsh orang kulit hitam gada otaknya
+__label__harsh orang kulit hitam suka mengecam
+__label__harsh heh boncel cepet naik
+__label__harsh gendut banget motor saya gamuat
+__label__harsh badannya gede banget sih
+__label__harsh badannya kek gajah
