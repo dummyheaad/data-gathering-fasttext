@@ -275,6 +275,16 @@ __label__fraud username dan password nya salah bisa dikirimkan lagi
 __label__fraud voucher promo khusus driver dapat bonus uang di tiap dua customer syaratnya cukup isi data di link ini
 __label__fraud waduh tf nya kelebihan boleh balikin kembaliannya ga kirim lewat link ini aja
 __label__fraud yang kemaren uang nya kelebihan dan belum dibalikin
+__label__fraud bisa fotoin pin atm nya ?
+__label__fraud mas boleh kirim pin atm nya ?
+__label__fraud pin atm nya apa ya mas ?
+__label__fraud kirim sini pin atm nya
+__label__fraud boleh tau pin nya berapa ya kak ?
+__label__fraud kasih tau pin nya kak biar saya bantu
+__label__fraud kirim norek ama pin penarikan nya ke sini
+__label__fraud pin ama norek nya apa ya mas ?
+__label__fraud kasih tau pin ama norek nya
+__label__fraud pin dan norek bisa dikirimkan ke saya mas ?
 __label__harsh ada cewek cantik putih mulus sexy dulunya laki haha kaga lucu anjing
 __label__harsh alamat lu juga bisa dapat
 __label__harsh anak asu
