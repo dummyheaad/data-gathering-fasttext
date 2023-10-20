@@ -1861,3 +1861,42 @@ __label__none posisi kk nya ada di mana ?
 __label__none patokan nya apa ya kk ?
 __label__none saya bingung nyari patokan nya
 __label__none patokan nya di sini bukan kak ?
+__label__harsh lama banget kaya keong
+__label__harsh lama banget si kaya gary spongebob
+__label__harsh pak mampir arab dulu apa gimana si kok lama banget
+__label__harsh buset pak udah 20 menit ini saya nunggu, cancel aja lah anjing lama banget tai
+__label__harsh woi kontol udah jalan blm si, ditunggin juga
+__label__harsh kalo ganiat kerja gausah kerja, udah dapet orderan malah ga jalan jalan anjing lo
+__label__harsh yah motornya butut, cancel aja deh, ga sudi gua naiknya
+__label__harsh kok ga jalan jalan sih orang lagi buru buru, cancel aja lah tai
+__label__harsh yah kok dapet bapak lagi sih, udah pernah naik pelan banget nyetirnya saya cancel aja, mau cari driver lain
+__label__harsh anjing lo lagi nyetir grepe grepe
+__label__harsh wah buk yang bener aja dong masa nego gitu
+__label__harsh yaelah buk itu udah murah kalo gamampu naik ojol gausa pesen anjing
+__label__harsh nyetirnya ugal ugalan, kek mau ngajak mati, sopir gila
+__label__harsh gila aja lo nggak usah bayar tapi tuker grepe, stres anjing
+__label__harsh bapak yang bener aja pak, pick up orderan tapi malah mau tidur, gila lo
+__label__harsh wah anjing yang bener aja
+__label__harsh wah babi yang bener aja
+__label__harsh wah tai lo yang bener aja
+__label__harsh tai lama banget
+__label__harsh ye kalo berak mah matiin dulu aplikasinya, bangsat
+__label__harsh bangsat, gua udah nunggu lama kaga jalan jalan
+__label__harsh bangsat lo nyetir ga bener tai
+__label__harsh cok, ojol mesum
+__label__harsh lu buta apa gimana di maps udah jelas itu
+__label__harsh ya itu lu baca keterangannya udah ditulis juga, buta ya lo
+__label__harsh yee ini ojek online buk, kalo mau nawar di pasar aja, customer stress
+__label__harsh mbak kalo pesen tuh udah harus stand by, gimana si, saya yang rugi kalo gini, anjing
+__label__harsh berak lo ditungguin ga nyampe nyampe
+__label__harsh woi bangsat, niat kerja kagak si
+__label__harsh tai lo
+__label__harsh apa maksud lo ngirim chat kaya gitu
+__label__harsh udah buruan sini gua udah telat anjing
+__label__harsh lonte lo
+__label__harsh bangsat
+__label__harsh anjing
+__label__harsh babi
+__label__harsh monyet lo
+__label__harsh monyet
+__label__harsh tai
