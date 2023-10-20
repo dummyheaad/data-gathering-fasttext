@@ -1485,6 +1485,10 @@ __label__sexual aku mau coba cium kamu deh
 __label__sexual mau ga kiss sebentar aja nanti saya yg bayar
 __label__sexual cuddle bentar yuk nanti ditraktir
 __label__sexual mau peluk atau saya turunin di tengah jalan
+__label__sexual keluarin di dalem bang pejunya
+__label__sexual masukin dong ke dalem rahim saya
+__label__sexual saya suka di dalem bang keluarnya
+__label__sexual temenin saya ke hotel mau? nanti dikasih uang
 __label__none posisi tepatnya di sebelah mana
 __label__none Jika Anda siap, tolong beri tahu saya
 __label__none kalo udah siap kasih tau aja
@@ -1647,3 +1651,50 @@ __label__harsh heh boncel cepet naik
 __label__harsh gendut banget motor saya gamuat
 __label__harsh badannya gede banget sih
 __label__harsh badannya kek gajah
+__label__harsh sombong bgt kiris
+__label__harsh anjir di cancel
+__label__harsh heh babi
+__label__harsh monyet muter kaga nyampe-nyampe
+__label__harsh anjing lelet banget
+__label__harsh bacot jablay
+__label__harsh heh jablay belagu amat
+__label__harsh lonte lo ya
+__label__harsh sok jual mahal deh lo padahal murah
+__label__none di cancel aja mba
+__label__none sabar ya kak macet
+__label__none tau rute terdekat ga?
+__label__none ini lewat mana ya?
+__label__none di pintu yang mana ka?
+__label__none rumah warna apa ka?
+__label__none saya sudah di pintu keluar
+__label__none gangnya kelewat mas
+__label__none bang bisa cepat ga? saya buru-buru
+__label__none sesuai maps ya pak
+__label__none cancel aja kak soalnya hujan angin
+__label__none sebentar lagi sampai
+__label__none xenia abu-abu
+__label__none kejauhan pak muternya
+__label__none pakai baju warna apa ka
+__label__none ditunggu ya kak macet
+__label__none di puteran balik
+__label__none posisi dimana ya?
+__label__none udah jalan belum?
+__label__none maaf cancel aja kak kejauhan
+__label__none berapa orang penumpang ka?
+__label__none sudah di depan ka
+__label__none motor beat ka
+__label__none motor vario hitam ka
+__label__none dmn ka?
+__label__none saya otw ka
+__label__none otw pak
+__label__none siang ka
+__label__none pagi pak
+__label__none malam mas
+__label__none sore ka
+__label__none pertigaan ke kanan ya mas
+__label__none lagi di lampu merah kak macet
+__label__none saya bawa koper, bisa bawanya ga mas?
+__label__none lewat mana ka?
+__label__none tau jalan pintas ga?
+__label__none lewat jalan besar aja
+__label__none mas ada jas ujan ga?
