@@ -1733,3 +1733,39 @@ __label__none lewat mana ka?
 __label__none tau jalan pintas ga?
 __label__none lewat jalan besar aja
 __label__none mas ada jas ujan ga?
+__label__none udah sampai di mana pak ?
+__label__none posisi sekarang di mana mas ?
+__label__none udah nyampe di mana pak ?
+__label__none udah nyampe mana mas ?
+__label__none udah berangkat mas ?
+__label__none udah berangkat belum pak ?
+__label__none udah mulai jemput mas ?
+__label__none udah mulai jemput pak ?
+__label__none penjemputan nya udah dimulai pak ?
+__label__none penjemputan nya apa udah dilakuin pak ?
+__label__none saya otw ya mbak
+__label__none saya lagi di jalan nih
+__label__none maaf ya mbak agak telat soalnya lagi macet
+__label__none saya udah otw nih
+__label__none otw
+__label__none saya otw ya
+__label__none lagi otw tapi kejebak macet
+__label__none udah otw estimasi 5 menit nyampe nih
+__label__none saya otw ke lokasi
+__label__none bentar lagi saya otw ke posisi nya mbak
+__label__none udah otw belum pak ?
+__label__none sudah otw pak ?
+__label__none sudah di jalan pak ?
+__label__none saya sudah nyampe
+__label__none saya dah nyampe
+__label__none saya sudah sampai
+__label__none saya dah sampe
+__label__none sy sudah di titik lokasi
+__label__none sy udah nyampe di lokasi kak
+__label__none saya udah di titik penjemputan kak
+__label__none saya udah nyampe di titik penjemputan kak
+__label__none kk nya di mana ya ?
+__label__none posisi kk nya ada di mana ?
+__label__none patokan nya apa ya kk ?
+__label__none saya bingung nyari patokan nya
+__label__none patokan nya di sini bukan kak ?
