@@ -1900,3 +1900,8 @@ __label__harsh babi
 __label__harsh monyet lo
 __label__harsh monyet
 __label__harsh tai
+__label__harsh bacot lo yanto
+__label__harsh buruan sini anjing lu
+__label__harsh gausa macem macem lu ama gua bangsat
+__label__harsh gua bunuh lu ntar nyampe sini
+__label__harsh bajingan lo
